@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 /* Created by 3935415 Abdullah Adam on 2020/09/19
  * SortingUtilities class containing the methods:
  * mergeSort(int[] arr)
@@ -80,5 +84,71 @@ public class SortingUtilities {
         int temp = arr[x];
         arr[x] = arr[y];
         arr[y] = temp;
+    }
+
+    public static void mergeSortSchool(List<School> arr) {
+        if (arr == null) return;
+
+        if (arr.size() > 1) {
+            int mid = arr.size() / 2;
+            List<School> left = new ArrayList<>(Collections.nCopies(mid, null));
+            for (int i = 0; i < mid; i++) {
+                left.set(i, arr.get(i));
+            }
+            int rightInitialSize = arr.size() - mid;
+            List<School> right = new ArrayList<>(Collections.nCopies(rightInitialSize, null));
+            for (int i = mid; i < arr.size(); i++) {
+                right.set(i - mid, arr.get(i));
+            }
+            mergeSortSchool(left);
+            mergeSortSchool(right);
+
+            int i = 0, j = 0, k = 0;
+
+            while (i < left.size() && j < right.size()) {
+                if (left.get(i).getName().compareTo(right.get(j).getName()) < 0) {
+                    arr.set(k, left.get(i));
+                    i++;
+                } else {
+                    arr.set(k, right.get(j));
+                    j++;
+                }
+                k++;
+            }
+            while (i < left.size()) {
+                arr.set(k, left.get(i));
+                i++;
+                k++;
+            }
+            while (j < right.size()) {
+                arr.set(k,right.get(j));
+                j++;
+                k++;
+            }
+        }
+    }
+
+    public static int partitionSchool(List<School> arr, int low, int high) {
+        School pivot = arr.get(high);
+        int i = (low - 1);
+        for (int j = low; j <= high - 1; j++) {
+            if (arr.get(j).getName().compareTo(pivot.getName()) < 0 || arr.get(j).getName() == pivot.getName()) {
+                i++;
+                School temp = arr.get(i);
+                arr.set(i, arr.get(j));
+                arr.set(j, temp);
+            }
+        }
+        School temp = arr.get(i + 1);
+        arr.set(i + 1, arr.get(high));
+        arr.set(high, temp);
+        return i + 1;
+    }
+    public static void quickSortSchool(List<School> arr, int low, int high) {
+        if (low < high) {
+            int partitionIndex = partitionSchool(arr, low, high);
+            quickSortSchool(arr, low, partitionIndex - 1);
+            quickSortSchool(arr, partitionIndex + 1, high);
+        }
     }
 }

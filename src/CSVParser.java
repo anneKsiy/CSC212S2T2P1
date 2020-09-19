@@ -2,40 +2,53 @@
  * Class which parses the CSV File into a 2-dimensional array
  */
 
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.*;
 import java.io.*;
 public class CSVParser {
-    public static void csvToArray(String fileName) {
-    File file = new File(fileName);
+    public static List<School> csvToArray(String fileName) {
+        List<School> schools = new ArrayList<>();
+        Path pathToFile = Paths.get(fileName);
 
-        List<List<String>> lines = new ArrayList<>(); // creates a 2D array of strings
-        Scanner inputStream;
-
-        try{
-            inputStream = new Scanner(file);
-            while(inputStream.hasNext()){
-                String line = inputStream.next();
-                String[] values = line.split(";");
-                lines.add(Arrays.asList(values)); // adds current line to the 2D string array
+        try (BufferedReader br = Files.newBufferedReader(pathToFile, StandardCharsets.US_ASCII)) {
+            String line = br.readLine(); // read the first line from the CSV file
+            while (line != null) {
+                String[] attributes = line.split(";"); // use string.split to load a string array with the values from each line of the file (; delimiter)
+                for (int i = 0; i < attributes.length; i++) {
+                    System.out.println(attributes[i]);
+                }
+                School school = School.createSchool(attributes);
+                schools.add(school); // add a school into the schools ArrayList
+                line = br.readLine(); // read the next line before continuing in the loop
             }
-            inputStream.close();
-        }catch (FileNotFoundException e) {
-            e.printStackTrace();
+        } catch (IOException ioe) {
+            ioe.printStackTrace();
         }
-        // iterates through and prints the 2D array
-//        int lineNumber = 1;
-//        for (List<String> line: lines) {
-//            int columnNumber = 1;
-//            for (String value: line) {
-//                System.out.println("Line: " + lineNumber + " Column: " + columnNumber + ": " + value);
-//                columnNumber++;
-//            }
-//            lineNumber++;
-//        }
-        for (int i = 0; i < lines.size(); i++) {
-            for (int j = 0; j < lines.get(i).size(); j++) {
-                System.out.println(lines.get(i).get(j));
+        return schools;
+    }
+    public static void generateCSV(String fileName, List<School> schools, long durationMS, long durationQS) throws IOException {
+        FileWriter fw = new FileWriter(fileName);
+        PrintWriter out = new PrintWriter(fw);
+        out.print("Merge Sort execution time: " + durationMS + ", Quick Sort execution time: " + durationQS + "\n");
+        out.print("Result [");
+        for (School s : schools) {
+            if (schools.indexOf(s) != 0 && schools.indexOf(s) != schools.size() - 1) {
+                out.print(" " + s.getName() + ",");
+            }
+            else if (schools.indexOf(s) == 0) {
+                out.print(s.getName() + ",");
+            }
+            else if (schools.indexOf(s) == schools.size() - 1) {
+                out.print(" " + s.getName());
             }
         }
+        out.print("]");
+        out.flush();
+        out.close();
+        fw.close();
     }
 }
+
