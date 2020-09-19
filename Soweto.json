@@ -1,0 +1,5025 @@
+{
+    "Moletsane Secondary School": {
+        "formatted_address": "1644, Moletsane, Soweto, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2545499,
+                "lng": 27.85119
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25320007010728,
+                    "lng": 27.85253982989272
+                },
+                "southwest": {
+                    "lat": -26.25589972989272,
+                    "lng": 27.84984017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "694127120e5e5ee4d8484b15b829ecd4905040cd",
+        "name": "Moletsane Secondary School",
+        "place_id": "ChIJodq1JbmmlR4RWYXr9ncwt0U",
+        "plus_code": {
+            "compound_code": "PVW2+5F Soweto, South Africa",
+            "global_code": "5G59PVW2+5F"
+        },
+        "rating": 5,
+        "reference": "ChIJodq1JbmmlR4RWYXr9ncwt0U",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "BHUKULANI HIGH SCHOOL": {
+        "formatted_address": "Zondi 2, 666 Masingafi St, EET Soweto, Johannesburg, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.233524,
+                "lng": 27.867531
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23227912010728,
+                    "lng": 27.86866482989272
+                },
+                "southwest": {
+                    "lat": -26.23497877989272,
+                    "lng": 27.86596517010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "09494a5c5423d6b3f7d507f540d5d5c51b3577df",
+        "name": "BHUKULANI HIGH SCHOOL",
+        "place_id": "ChIJWflHDS2hlR4RN1dAJzxH5_8",
+        "plus_code": {
+            "compound_code": "QV89+H2 Soweto, South Africa",
+            "global_code": "5G59QV89+H2"
+        },
+        "rating": 4.7,
+        "reference": "ChIJWflHDS2hlR4RN1dAJzxH5_8",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "St Matthews School": {
+        "formatted_address": "818 Ndebele St, Moroka, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.259996,
+                "lng": 27.881219
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25866057010727,
+                    "lng": 27.88256657989272
+                },
+                "southwest": {
+                    "lat": -26.26136022989272,
+                    "lng": 27.87986692010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f90c2da98b25e321e7f71f0981b322af8130acb9",
+        "name": "St Matthews School",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 360,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102140616210567656442/photos\">pako Khutso</a>"
+                ],
+                "photo_reference": "CmRaAAAAbGnfBVUQjpP_OaAe4GTAGn20bp-1DrhYFm3r25x_OkKkwgn2laQf9Vns5UmGDvd3Ej8XXOIONX-R4dyCjVNt5bS8jyTGAuAVHGTsTJe4iqeoAYIKo2cXexqRcrJNE5knEhBg6THNUvtoBD7P8HiAlfwOGhSVJKgQXcV4tRahRvJF_EKZ4VcAOQ",
+                "width": 360
+            }
+        ],
+        "place_id": "ChIJVatrKhynlR4RRGDfsciuTOo",
+        "plus_code": {
+            "compound_code": "PVRJ+2F Soweto, South Africa",
+            "global_code": "5G59PVRJ+2F"
+        },
+        "rating": 3.8,
+        "reference": "ChIJVatrKhynlR4RRGDfsciuTOo",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Adelaide Thambo School": {
+        "formatted_address": "3132B Diokane St, Soweto, Johannesburg, 1864, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2488437,
+                "lng": 27.8764192
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24746397010728,
+                    "lng": 27.87762652989272
+                },
+                "southwest": {
+                    "lat": -26.25016362989272,
+                    "lng": 27.87492687010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "07349ba967e1faa54cbaa459f7505f6790d74b8d",
+        "name": "Adelaide Thambo School",
+        "photos": [
+            {
+                "height": 2048,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104143632631468622393/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAPWR-2fYx8DUow0dHD7XQjREST77bRYOqxL5luxd9lu0BFZ-DY-e0tWpXTSUQtoMNdfHOaoA-rYen8RSoQPqLPy_UvRemJz8HnWrnbamGFTmT-jMrgRcHJ9NORU9RE3JXEhDsOQSH-YNUh3hw42cHM0IPGhSZ0jE81CB31mmZzfJRXbTJ22erzA",
+                "width": 1152
+            }
+        ],
+        "place_id": "ChIJcw6Ei9emlR4R5td4JwT7RNI",
+        "plus_code": {
+            "compound_code": "QV2G+FH Soweto, South Africa",
+            "global_code": "5G59QV2G+FH"
+        },
+        "rating": 3,
+        "reference": "ChIJcw6Ei9emlR4R5td4JwT7RNI",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Naledi High School": {
+        "formatted_address": "Nyakale St, Soweto, Johannesburg, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2506089,
+                "lng": 27.831194
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24925732010728,
+                    "lng": 27.83276312989272
+                },
+                "southwest": {
+                    "lat": -26.25195697989272,
+                    "lng": 27.83006347010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "704d8d0c53006ae08865c6517b4b2b9f47b92989",
+        "name": "Naledi High School",
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116554861849590971285/photos\">zorodzai munhumutema</a>"
+                ],
+                "photo_reference": "CmRaAAAAlU6ZiNmhnsQJI2VpGmvASYPdbP6RnxLZTMtmVRaylv7Cq7PFIPl0aryjdDAqwqHfLPge0LkpOQhYopx8r3VhR8eKj29U8CVNyDOHIJovcfKNAJP2zbaEeVV-yzIp9KL4EhAmz9YDCeJoUbM5e7CH796yGhQAGB41uhFzG_KgGIfufqsSb6BLSw",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJjSHydgKklR4R5J3AgPwBw3w",
+        "plus_code": {
+            "compound_code": "PRXJ+QF Soweto, South Africa",
+            "global_code": "5G59PRXJ+QF"
+        },
+        "rating": 3.6,
+        "reference": "ChIJjSHydgKklR4R5J3AgPwBw3w",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Mapetla High School": {
+        "formatted_address": "2189 Monotshe St, Mapetla, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.27364,
+                "lng": 27.84619
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27229017010728,
+                    "lng": 27.84753982989272
+                },
+                "southwest": {
+                    "lat": -26.27498982989272,
+                    "lng": 27.84484017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5e079917c4012b85c742398d9af22dbe2241120c",
+        "name": "Mapetla High School",
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100838423903703415144/photos\">smangaliso ramabi</a>"
+                ],
+                "photo_reference": "CmRaAAAAiRKoW1sLARoCU-obuanyRlbvgvekI2_4GYwVjRkccrJTAKL-5VMwZYjXbT3rKVRTz9o5Eq02JvgLI5J3Dqo-ZMQjGEMbw3ILYMl7S4viWTwCgg5v3TG-QLPk7U8P_v48EhCuC9L-LM3PNPUjGWIdDRe3GhQsu3bVpoLwmLSW3UCHqWoUfrM-3g",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJExVcMY6mlR4RL2crLYREjI4",
+        "plus_code": {
+            "compound_code": "PRGW+GF Soweto, South Africa",
+            "global_code": "5G59PRGW+GF"
+        },
+        "rating": 3,
+        "reference": "ChIJExVcMY6mlR4RL2crLYREjI4",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Meadowlands High School": {
+        "formatted_address": "Van Onselen St, Soweto, Johannesburg, 1852, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.215708,
+                "lng": 27.895514
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.21468637010728,
+                    "lng": 27.89671997989272
+                },
+                "southwest": {
+                    "lat": -26.21738602989272,
+                    "lng": 27.89402032010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6aa4d1c1f83583b9eba38c4e2b5b014fa88785ed",
+        "name": "Meadowlands High School",
+        "place_id": "ChIJNYpHKMSglR4RiYcDyoSmdM8",
+        "plus_code": {
+            "compound_code": "QVMW+P6 Meadowlands East, South Africa",
+            "global_code": "5G59QVMW+P6"
+        },
+        "rating": 3.3,
+        "reference": "ChIJNYpHKMSglR4RiYcDyoSmdM8",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Phafogang Secondary School": {
+        "formatted_address": "2226 Gumede St, Moroka, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2673203,
+                "lng": 27.8671981
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26574687010728,
+                    "lng": 27.86833742989272
+                },
+                "southwest": {
+                    "lat": -26.26844652989272,
+                    "lng": 27.86563777010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0ca57a5ea62d13bed81a59febeb1fbf193cdcde3",
+        "name": "Phafogang Secondary School",
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116554861849590971285/photos\">zorodzai munhumutema</a>"
+                ],
+                "photo_reference": "CmRaAAAASBK-Q6xQvGGeb9xlKsV9R3Ehtx-_vY_0p_-ykCdCcU4BfhSVY3EbdZgZLbpRwxSwGjwsZcnU6RpYxC0VVTAI0cYmCT6VcQEiCJzMIsnNyeeNfcJjQ1DRyUWtxw_tcLCGEhDUL3DhPdEWOvcAxWzeOTTXGhQXsNK2F42VRW8s6SFobHsNdcG2Rw",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJyQwvUeSmlR4R_pJQCJvyDsw",
+        "plus_code": {
+            "compound_code": "PVM8+3V Soweto, South Africa",
+            "global_code": "5G59PVM8+3V"
+        },
+        "rating": 2,
+        "reference": "ChIJyQwvUeSmlR4R_pJQCJvyDsw",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Ditau Primary School": {
+        "formatted_address": "6604, Klipspruit 318-Iq, Soweto, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.24879,
+                "lng": 27.92174
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24744017010728,
+                    "lng": 27.92308982989273
+                },
+                "southwest": {
+                    "lat": -26.25013982989272,
+                    "lng": 27.92039017010729
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "409f87149ca3c1002bb70bd0f6a1b84b388e1cbb",
+        "name": "Ditau Primary School",
+        "place_id": "ChIJ_yK4AWGnlR4R1ImsZC4ukjg",
+        "plus_code": {
+            "compound_code": "QW2C+FM Soweto, South Africa",
+            "global_code": "5G59QW2C+FM"
+        },
+        "rating": 5,
+        "reference": "ChIJ_yK4AWGnlR4R1ImsZC4ukjg",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Immaculata Secondary School": {
+        "formatted_address": "2063A Muhuyu St, Diepkloof Zone 2, Johannesburg, 1864, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2527729,
+                "lng": 27.942053
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25126867010728,
+                    "lng": 27.94307942989272
+                },
+                "southwest": {
+                    "lat": -26.25396832989272,
+                    "lng": 27.94037977010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a1314b521743c4f90b2f3f2c7aeb47b62aa9716b",
+        "name": "Immaculata Secondary School",
+        "place_id": "ChIJHzjUQskJlR4R8N2TB4LfAMQ",
+        "plus_code": {
+            "compound_code": "PWWR+VR Diepkloof, South Africa",
+            "global_code": "5G59PWWR+VR"
+        },
+        "rating": 4.5,
+        "reference": "ChIJHzjUQskJlR4R8N2TB4LfAMQ",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Aurora Girls High School": {
+        "formatted_address": "1764 Zici St, Zola North, Soweto, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2401746,
+                "lng": 27.8470472
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23882397010728,
+                    "lng": 27.84843202989272
+                },
+                "southwest": {
+                    "lat": -26.24152362989272,
+                    "lng": 27.84573237010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "40ed05bacce1f42b6e29dbf5d6ad5285878bd177",
+        "name": "Aurora Girls High School",
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116554861849590971285/photos\">zorodzai munhumutema</a>"
+                ],
+                "photo_reference": "CmRaAAAAoH9nkvZRREsatNeOMDjtSr8S9cQRjXt5pjScASB5DLZwfc_d5-LOjVgF51SfKf9urmPMeY--zBl0WtkKTh-9hvOkeYzcTuhmfFWEBOvBESKV-ScSpIxpBee7UzfAZeT7EhD7uFL2Q4Mej_NCtLck0VGCGhR7uVZya9adPyfs8Dl6CinTDRmeWg",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJNxtou0yhlR4RHlXGBtOKMEs",
+        "plus_code": {
+            "compound_code": "QR5W+WR Soweto, South Africa",
+            "global_code": "5G59QR5W+WR"
+        },
+        "rating": 4,
+        "reference": "ChIJNxtou0yhlR4RHlXGBtOKMEs",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Megatong Primary School": {
+        "formatted_address": "2984, Mapetla, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.27573,
+                "lng": 27.8514
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27438017010728,
+                    "lng": 27.85274982989272
+                },
+                "southwest": {
+                    "lat": -26.27707982989272,
+                    "lng": 27.85005017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8570ee248413823b199f1167d84a4b0eaeea47ae",
+        "name": "Megatong Primary School",
+        "place_id": "ChIJlx6UYIymlR4ROyX2yIpFJUw",
+        "plus_code": {
+            "compound_code": "PVF2+PH Soweto, South Africa",
+            "global_code": "5G59PVF2+PH"
+        },
+        "rating": 4,
+        "reference": "ChIJlx6UYIymlR4ROyX2yIpFJUw",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Forte Secondary School": {
+        "formatted_address": "110 Christian Dube St, Mmesi Park, Soweto, 1863, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2144492,
+                "lng": 27.8672428
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.21264482010728,
+                    "lng": 27.86854777989272
+                },
+                "southwest": {
+                    "lat": -26.21534447989272,
+                    "lng": 27.86584812010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7443d6e56509a497510bcfb1d0a5af57b26ce507",
+        "name": "Forte Secondary School",
+        "place_id": "ChIJUZJ1BRahlR4ReRyFuA0_0N0",
+        "plus_code": {
+            "compound_code": "QVP8+6V Soweto, South Africa",
+            "global_code": "5G59QVP8+6V"
+        },
+        "rating": 3.8,
+        "reference": "ChIJUZJ1BRahlR4ReRyFuA0_0N0",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Daliwonga Secondary School": {
+        "formatted_address": "Koma St, Dube, Soweto, 1800, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2320407,
+                "lng": 27.8891019
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23039552010728,
+                    "lng": 27.89028222989273
+                },
+                "southwest": {
+                    "lat": -26.23309517989273,
+                    "lng": 27.88758257010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3f06e992b083a4dc5064bb1f3e20baa49e3c204d",
+        "name": "Daliwonga Secondary School",
+        "place_id": "ChIJWyHcWi2nlR4RtfIbJiSs__8",
+        "plus_code": {
+            "compound_code": "QV9Q+5J Soweto, South Africa",
+            "global_code": "5G59QV9Q+5J"
+        },
+        "rating": 4.2,
+        "reference": "ChIJWyHcWi2nlR4RtfIbJiSs__8",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Curtis Nkondo School Of Specialization": {
+        "formatted_address": "2362 Biyela St, Emdeni South, Soweto, 1861, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2391627,
+                "lng": 27.8221496
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23779577010728,
+                    "lng": 27.82346997989272
+                },
+                "southwest": {
+                    "lat": -26.24049542989272,
+                    "lng": 27.82077032010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "36786703ffae2761dca21ee92dc1ad46c5a31092",
+        "name": "Curtis Nkondo School Of Specialization",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2560,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100701837607493975396/photos\">Sithembiso Nhlapo</a>"
+                ],
+                "photo_reference": "CmRaAAAAJVotRIzVA-HPG1MaGnklrwojauFGabuckegKgJy0wFCCLIhNnzzeB_k0ypodVSLJq0FbTzQegsmCB5_DiwRCl2KbHssI0Hf2NCMTeNS5zoO4FQQGe1UHvC__VG0XHYKAEhAYhGL78g19o7X_aG3rp6s6GhQmtblrcCUp_wC1ljly8WSi7Y0wHw",
+                "width": 1536
+            }
+        ],
+        "place_id": "ChIJpcGeLfqjlR4RpyolROkrwkM",
+        "plus_code": {
+            "compound_code": "QR6C+8V Soweto, South Africa",
+            "global_code": "5G59QR6C+8V"
+        },
+        "rating": 4,
+        "reference": "ChIJpcGeLfqjlR4RpyolROkrwkM",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Morris Isaacson High School": {
+        "formatted_address": "Mphuthi St, Central Jabavu, Johannesburg, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.24608,
+                "lng": 27.872452
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24473017010728,
+                    "lng": 27.87380182989273
+                },
+                "southwest": {
+                    "lat": -26.24742982989272,
+                    "lng": 27.87110217010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "99ad5e6df6e55eba84fa17e439cedb108fb3c5b0",
+        "name": "Morris Isaacson High School",
+        "photos": [
+            {
+                "height": 2976,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106687583196868602943/photos\">Masindi Mblaheni</a>"
+                ],
+                "photo_reference": "CmRaAAAAbHDroY2ekWYllE_58G9BTXMjFumLBZnhUXlI5To2YQ7jTrBiZW4kAHCDrJ_YK2N8qtNU4F0HZmiffZ4Y_s4UGqhn4s3UOV_dglOiB5X4QnT6PPplIqmywrHYGRY4DDNVEhBMI-lsoDyK4aiQXG9Kts6JGhRTZSXrsAc32wl8rbwiw0YtFh3aJA",
+                "width": 3968
+            }
+        ],
+        "place_id": "ChIJ1Y-F-9mmlR4Rnrz9JZkm_wQ",
+        "plus_code": {
+            "compound_code": "QV3C+HX Soweto, South Africa",
+            "global_code": "5G59QV3C+HX"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ1Y-F-9mmlR4Rnrz9JZkm_wQ",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Saint Martin De Porres High School": {
+        "formatted_address": "9306 Ngobese St, Orlando West, Soweto, 1804, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.22805,
+                "lng": 27.91265
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.22671007010728,
+                    "lng": 27.91377382989272
+                },
+                "southwest": {
+                    "lat": -26.22940972989273,
+                    "lng": 27.91107417010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8f88f5cdf6f39097a98ffa5fe4712ce7f99012f0",
+        "name": "Saint Martin De Porres High School",
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109630486599774019116/photos\">TEBOGO PETJA</a>"
+                ],
+                "photo_reference": "CmRaAAAAR3M66DKoef1qFPYHOoMEY_iOwIcanmXJamC2ZcrPEj5VkjU0vj7UYcJc7W8pTny-M9nJcvj3y6kWO8AuNA7dsLK_SmBHBCeK74Iwxq_LLZM4eMB2E25Uc7OgVho346TXEhDk6Kp6HU6yYRARC3rVQ-I8GhQqADUob9b8qkV4NBicum-k7nDtFA",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJYQLRcU2nlR4REKC8HkClB0s",
+        "plus_code": {
+            "compound_code": "QWC7+Q3 Soweto, South Africa",
+            "global_code": "5G59QWC7+Q3"
+        },
+        "rating": 4.8,
+        "reference": "ChIJYQLRcU2nlR4REKC8HkClB0s",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Anchor High School": {
+        "formatted_address": "Rev Frederick S Modise Drive, Soweto, Johannesburg, 1803, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.219638,
+                "lng": 27.914014
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.21828817010728,
+                    "lng": 27.91536382989272
+                },
+                "southwest": {
+                    "lat": -26.22098782989272,
+                    "lng": 27.91266417010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4e78747bf6b69532109a75b6fa362e8476a62ef8",
+        "name": "Anchor High School",
+        "place_id": "ChIJU_PeD66glR4Rq0J-qSGs3k0",
+        "plus_code": {
+            "compound_code": "QWJ7+4J Soweto, South Africa",
+            "global_code": "5G59QWJ7+4J"
+        },
+        "rating": 3.8,
+        "reference": "ChIJU_PeD66glR4Rq0J-qSGs3k0",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Rebone Primary School": {
+        "formatted_address": "50, Naledi, Soweto, 1861, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.25611,
+                "lng": 27.81666
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25476017010728,
+                    "lng": 27.81800982989272
+                },
+                "southwest": {
+                    "lat": -26.25745982989273,
+                    "lng": 27.81531017010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fc761a5349a5bd580e00b11d5ba7cf7d1a1548db",
+        "name": "Rebone Primary School",
+        "place_id": "ChIJ0YB2yw-klR4R5saqU-WOCZI",
+        "plus_code": {
+            "compound_code": "PRV8+HM Soweto, South Africa",
+            "global_code": "5G59PRV8+HM"
+        },
+        "rating": 3.5,
+        "reference": "ChIJ0YB2yw-klR4R5saqU-WOCZI",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Altmont Technical High School": {
+        "formatted_address": "Cnr Alekhine & Stanton Rd, Protea South, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2812357,
+                "lng": 27.8424725
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27988587010728,
+                    "lng": 27.84382232989272
+                },
+                "southwest": {
+                    "lat": -26.28258552989272,
+                    "lng": 27.84112267010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3b3b8b5f4a215cf50c00d620e66f8290758f2e2c",
+        "name": "Altmont Technical High School",
+        "place_id": "ChIJlXH_E7AvaAERoRQ6hFBbZTE",
+        "plus_code": {
+            "compound_code": "PR9R+GX Soweto, South Africa",
+            "global_code": "5G59PR9R+GX"
+        },
+        "rating": 4.8,
+        "reference": "ChIJlXH_E7AvaAERoRQ6hFBbZTE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Glenridge Primary School": {
+        "formatted_address": "Glen Ridge, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2737423,
+                "lng": 27.7893531
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27239247010727,
+                    "lng": 27.79070292989272
+                },
+                "southwest": {
+                    "lat": -26.27509212989272,
+                    "lng": 27.78800327010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fa94c649098cf38d6aedbd16c8513a012d4d54d5",
+        "name": "Glenridge Primary School",
+        "photos": [
+            {
+                "height": 2358,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104898076298421669571/photos\">Linda Rojie</a>"
+                ],
+                "photo_reference": "CmRaAAAAcKRofw1PoM_ADTtm7L-Q2RYfxcKD0rSAGmn8wFThQ3F0oA220JHgTX-di4g8xmT3l7LO51di2cNNUq-2-LY2Jh96B1Zc8eySCygaDCgPQVVAmV90UFloVDZyXYwwsYCnEhDufTxSdBaqirOQeX46_F6vGhR4Yvcp-mJ0_nX20jE-7UR0YK0KMw",
+                "width": 4191
+            }
+        ],
+        "place_id": "ChIJtTL_p2CklR4RcaqSwstU_YI",
+        "plus_code": {
+            "compound_code": "PQGQ+GP Soweto, South Africa",
+            "global_code": "5G59PQGQ+GP"
+        },
+        "rating": 5,
+        "reference": "ChIJtTL_p2CklR4RcaqSwstU_YI",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Nomzamo Madikizela Mandela Primary School": {
+        "formatted_address": "Bram Fischerville, Soweto, 1875, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.186226,
+                "lng": 27.831177
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.18487617010727,
+                    "lng": 27.83252682989271
+                },
+                "southwest": {
+                    "lat": -26.18757582989272,
+                    "lng": 27.82982717010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "853b09c65be6df5d17748aa0df4074dcb7fa935b",
+        "name": "Nomzamo Madikizela Mandela Primary School",
+        "photos": [
+            {
+                "height": 800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117869817247744801001/photos\">Rethabile Menong</a>"
+                ],
+                "photo_reference": "CmRaAAAADg-XzU1RJyti8O5duyXVippnJS0NjC2rtwPbIKZFuG2BRGyTz4bBhicYfk960LaokNYK8CGtZCIH8hKCmTEBHDkoRVoOeTQDjMxjVFxdxyaO1bratL3CzJ_AJwCf3TzTEhAf0iZYCVZhiSK91JqFM8fHGhQP4TmOIV1V-oFAgnnlZrW40a8dYA",
+                "width": 600
+            }
+        ],
+        "place_id": "ChIJGR571YmhlR4RfkhokTbUst4",
+        "plus_code": {
+            "compound_code": "RR7J+GF Soweto, South Africa",
+            "global_code": "5G59RR7J+GF"
+        },
+        "rating": 0,
+        "reference": "ChIJGR571YmhlR4RfkhokTbUst4",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "St Peter Claver Catholic School": {
+        "formatted_address": "452 Modjaji St, Pimville, Johannesburg, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2720959,
+                "lng": 27.900649
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27067212010728,
+                    "lng": 27.90153922989272
+                },
+                "southwest": {
+                    "lat": -26.27337177989272,
+                    "lng": 27.89883957010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e38f33e673f0ea025e3164e99e594268b082fbed",
+        "name": "St Peter Claver Catholic School",
+        "photos": [
+            {
+                "height": 1520,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106468982690899943767/photos\">Mojalefa Thamae</a>"
+                ],
+                "photo_reference": "CmRaAAAA-3gtlv32f-3mfdZtTqM3QlyENcmhAEdSusjY4r84zQ8bgEc-nNo9jzX5Kqy9guURR35LFZQgtZNXliVtB2ip19F8vNfobfeWrhHE7DO5mZB_rYaTbs2VRC5Vl55lyq_GEhC41eOT3rTs5k3O_YkQl4ttGhSjJSNwLlmckW67tDt0dDq7qfM2_w",
+                "width": 2688
+            }
+        ],
+        "place_id": "ChIJZb2nqQqnlR4RJWtFywpKKZc",
+        "plus_code": {
+            "compound_code": "PWH2+57 Pimville, South Africa",
+            "global_code": "5G59PWH2+57"
+        },
+        "rating": 2.5,
+        "reference": "ChIJZb2nqQqnlR4RJWtFywpKKZc",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Noordgesig Secondary School": {
+        "formatted_address": "240 Major St, Noordgesig, Soweto, 1804, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.22825,
+                "lng": 27.93543
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.22706382010728,
+                    "lng": 27.93659312989272
+                },
+                "southwest": {
+                    "lat": -26.22976347989272,
+                    "lng": 27.93389347010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f0a2f2d03e2d2f21243cfa55589b67f4cace7135",
+        "name": "Noordgesig Secondary School",
+        "photos": [
+            {
+                "height": 360,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112682582368659562592/photos\">Ntando Yondela</a>"
+                ],
+                "photo_reference": "CmRaAAAA9oRtCXRuFuo2Q_ER3gwEXOstIzBRTZ6jinWazy7oGfWTBNVqTDlCMMkylWOn_4Tt2pewDwO_EOikzUJ_aLRXuQeuZIWnsF3SxuH8C7dQNt1X6f-JHWR-YMWqgF70Z0a_EhDbTxMDINkWkhoi8l90p0hFGhS05K6uoaBzWxQnYnDqEy4zuup_lw",
+                "width": 480
+            }
+        ],
+        "place_id": "ChIJTwhIa_oJlR4RD0T25VTUrNg",
+        "plus_code": {
+            "compound_code": "QWCP+M5 Soweto, South Africa",
+            "global_code": "5G59QWCP+M5"
+        },
+        "rating": 4,
+        "reference": "ChIJTwhIa_oJlR4RD0T25VTUrNg",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Saint Ives Primary School": {
+        "formatted_address": "Klipspruit West, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2950999,
+                "lng": 27.87319
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.29375007010728,
+                    "lng": 27.87453982989273
+                },
+                "southwest": {
+                    "lat": -26.29644972989272,
+                    "lng": 27.87184017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2e5c994b8116e0c75947876ab7960d21a5bcd2b1",
+        "name": "Saint Ives Primary School",
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105746697049126298029/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAa7tDW5BaReMuKW9Tx1YrJP3_XhPNsUlQhgnLiU2ERdKSWaHEWPpnlbEzZ2Pu5Nahd9pZuh4Kf5xzdxjio0vmanILqH1wOQi7S2tLLx9h0Ua8siCBmY_IjyiEFlf9exICEhC0svLl2GmTo9ZirYvFOI19GhQ7FiqsoOdRziC_DIR7diVgasJCZw",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJc8e57kumlR4Rr6Q6YYt39bk",
+        "plus_code": {
+            "compound_code": "PV3F+X7 Soweto, South Africa",
+            "global_code": "5G59PV3F+X7"
+        },
+        "rating": 4.8,
+        "reference": "ChIJc8e57kumlR4Rr6Q6YYt39bk",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Lufhereng High School": {
+        "formatted_address": "Zuurbult 240-Iq, Soweto, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2319729,
+                "lng": 27.7985155
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23062307010728,
+                    "lng": 27.79986532989272
+                },
+                "southwest": {
+                    "lat": -26.23332272989272,
+                    "lng": 27.79716567010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0ed155b97168b61be07d194a1312ae0e36baeaf0",
+        "name": "Lufhereng High School",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJ-3p8G5ejlR4RI8aqaBBieTQ",
+        "plus_code": {
+            "compound_code": "QQ9X+6C Soweto, South Africa",
+            "global_code": "5G59QQ9X+6C"
+        },
+        "rating": 5,
+        "reference": "ChIJ-3p8G5ejlR4RI8aqaBBieTQ",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Silver Oaks Secondary School": {
+        "formatted_address": "Eldorado Park, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2902399,
+                "lng": 27.91733
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.28889007010727,
+                    "lng": 27.91867982989272
+                },
+                "southwest": {
+                    "lat": -26.29158972989272,
+                    "lng": 27.91598017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7c7a4f39c8047a9ca35c9570856d533548078c5d",
+        "name": "Silver Oaks Secondary School",
+        "place_id": "ChIJwSAxy4ynlR4R4Wlz621MD6I",
+        "plus_code": {
+            "compound_code": "PW58+WW Soweto, South Africa",
+            "global_code": "5G59PW58+WW"
+        },
+        "rating": 4.6,
+        "reference": "ChIJwSAxy4ynlR4R4Wlz621MD6I",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Mayibuye Primary School": {
+        "formatted_address": "Doornkop, Soweto, 1874, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2206825,
+                "lng": 27.8185942
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.21933267010728,
+                    "lng": 27.81994402989272
+                },
+                "southwest": {
+                    "lat": -26.22203232989272,
+                    "lng": 27.81724437010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3cc88710a5ec5015a8749ae432eaca8c149833d8",
+        "name": "Mayibuye Primary School",
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102471141411822733112/photos\">Tshegofatso Tshehla</a>"
+                ],
+                "photo_reference": "CmRaAAAAR0o7Pava34v7qpR3kJUNtZ4O0MSG1amYD0wc5kDeKHyQihKg025BSD5lV7-2VNSNmO_UwgH-miwKj8QeD65ZTe2pDk3C02O9ar3CUAfJiOdnWIfHnhiItpqIHmAPmd2NEhDcVIZ86qw_1QmMO3DLcLCzGhQ6PsoSjuKDssELrfghfTKJ4N1qmw",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJdfU-LsOjlR4RgC8pl9KrYIQ",
+        "plus_code": {
+            "compound_code": "QRH9+PC Soweto, South Africa",
+            "global_code": "5G59QRH9+PC"
+        },
+        "rating": 2.7,
+        "reference": "ChIJdfU-LsOjlR4RgC8pl9KrYIQ",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Basa Primary School": {
+        "formatted_address": "Ext 11, Protea Blvd, Protea Glen, Johannesburg, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2745949,
+                "lng": 27.804556
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27314032010728,
+                    "lng": 27.80613642989272
+                },
+                "southwest": {
+                    "lat": -26.27583997989272,
+                    "lng": 27.80343677010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9fd4af541263bd7961a71d889c000d7132896c9d",
+        "name": "Basa Primary School",
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112609476937483573730/photos\">mandisa dumezweni</a>"
+                ],
+                "photo_reference": "CmRaAAAAlGVyDdlYAxBKIJrQcW7OtzDsC_9V4QqMrh5222rNi5EO_QccLOQezhbkdbgTvecyFUGEMfpPDahTzIp_T-IURQsdxz9SsXPo1XtPf4U06QsY1kgoQVrDOJL1z8G29OjyEhBTw-QyuiwrK0MaKc2EJwYUGhS0t4_mwmPAqWFt0O7vmzs6ICzC4w",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJGQZ6H0GklR4RH_8iPye_qm4",
+        "plus_code": {
+            "compound_code": "PRG3+5R Soweto, South Africa",
+            "global_code": "5G59PRG3+5R"
+        },
+        "rating": 2.4,
+        "reference": "ChIJGQZ6H0GklR4RH_8iPye_qm4",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Kliptown Primary School": {
+        "formatted_address": "Boundary Rd, Eldorado Park, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2953999,
+                "lng": 27.88856
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.29411897010728,
+                    "lng": 27.89131624999999
+                },
+                "southwest": {
+                    "lat": -26.29681862989273,
+                    "lng": 27.88764125000001
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9a7635ab8cef5ebd2b332d3a5e8119b45901308d",
+        "name": "Kliptown Primary School",
+        "photos": [
+            {
+                "height": 4128,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103845739398234580977/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAMWTtwoFjvF44aAgItQt3Bl0QyR7iyxmcSSwAAZkzu21_4qMjzVgLcAt001JDJWiboC95VKyk8mrg0zkRqA-_JKJC2Ue0E8r-CU-cvxU03YYwAnmKguA8C-DVcocXAlIAEhB2pAK8dFqSvSD-5RB6Zth0GhTpgDtqMX24xLzQuDFXv5vgGYoQuw",
+                "width": 3096
+            }
+        ],
+        "place_id": "ChIJp80_6benlR4R6xsH8dUc-qM",
+        "plus_code": {
+            "compound_code": "PV3Q+RC Soweto, South Africa",
+            "global_code": "5G59PV3Q+RC"
+        },
+        "rating": 5,
+        "reference": "ChIJp80_6benlR4R6xsH8dUc-qM",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Emndeni Primary School": {
+        "formatted_address": "Zwane St, Soweto, Johannesburg, 1861, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2429169,
+                "lng": 27.821562
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24170312010728,
+                    "lng": 27.82291572989272
+                },
+                "southwest": {
+                    "lat": -26.24440277989272,
+                    "lng": 27.82021607010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "adf9197a894f4332885e54c5a7fbad1626895a9f",
+        "name": "Emndeni Primary School",
+        "place_id": "ChIJC_TkTfijlR4RdlKefrtzGwc",
+        "plus_code": {
+            "compound_code": "QR4C+RJ Soweto, South Africa",
+            "global_code": "5G59QR4C+RJ"
+        },
+        "rating": 0,
+        "reference": "ChIJC_TkTfijlR4RdlKefrtzGwc",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Thulani Secondary School": {
+        "formatted_address": "Thulani, Soweto, 1863, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2168081,
+                "lng": 27.8277375
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.21545827010727,
+                    "lng": 27.82908732989272
+                },
+                "southwest": {
+                    "lat": -26.21815792989272,
+                    "lng": 27.82638767010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "58adf969454f675ed53dd82d9c5dd54edf02c967",
+        "name": "Thulani Secondary School",
+        "place_id": "ChIJ27_rLNmjlR4RB6knXvN9fMQ",
+        "plus_code": {
+            "compound_code": "QRMH+73 Soweto, South Africa",
+            "global_code": "5G59QRMH+73"
+        },
+        "rating": 3.7,
+        "reference": "ChIJ27_rLNmjlR4RB6knXvN9fMQ",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Winnie Madikizela-Mandela School": {
+        "formatted_address": "Limpopo St, Senaoane, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2729123,
+                "lng": 27.8689629
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27169382010727,
+                    "lng": 27.87026662989272
+                },
+                "southwest": {
+                    "lat": -26.27439347989272,
+                    "lng": 27.86756697010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9640f1861a979b0afa7f49c3eadf1632c37881d9",
+        "name": "Winnie Madikizela-Mandela School",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJIaoLLPqmlR4RAte3u5BZc1o",
+        "plus_code": {
+            "compound_code": "PVG9+RH Soweto, South Africa",
+            "global_code": "5G59PVG9+RH"
+        },
+        "rating": 5,
+        "reference": "ChIJIaoLLPqmlR4RAte3u5BZc1o",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Kwadedangendlale High School": {
+        "formatted_address": "Bhedla St, Zola, Johannesburg, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2347039,
+                "lng": 27.844361
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23347437010728,
+                    "lng": 27.84579702989272
+                },
+                "southwest": {
+                    "lat": -26.23617402989272,
+                    "lng": 27.84309737010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "785954e00282dfd6fc740876a3bafd2d1aa60254",
+        "name": "Kwadedangendlale High School",
+        "place_id": "ChIJt7tJc06hlR4RDVHhTIQwkWs",
+        "plus_code": {
+            "compound_code": "QR8V+4P Soweto, South Africa",
+            "global_code": "5G59QR8V+4P"
+        },
+        "rating": 4,
+        "reference": "ChIJt7tJc06hlR4RDVHhTIQwkWs",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Eldorado Park Primary School": {
+        "formatted_address": "30 Fontein St, Eldorado Park, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.295086,
+                "lng": 27.8976761
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.29364702010728,
+                    "lng": 27.89903502989272
+                },
+                "southwest": {
+                    "lat": -26.29634667989272,
+                    "lng": 27.89633537010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d2b27b6b684fb746a32c963d623ae0d15ace1c1d",
+        "name": "Eldorado Park Primary School",
+        "place_id": "ChIJg853kMCnlR4RZZ7aklNS4QA",
+        "plus_code": {
+            "compound_code": "PV3X+X3 Soweto, South Africa",
+            "global_code": "5G59PV3X+X3"
+        },
+        "rating": 2.5,
+        "reference": "ChIJg853kMCnlR4RZZ7aklNS4QA",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Siyabonga Secondary School": {
+        "formatted_address": "10216, Bram Fischerville, Soweto, 1724, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.190839,
+                "lng": 27.862424
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.18948917010728,
+                    "lng": 27.86377382989272
+                },
+                "southwest": {
+                    "lat": -26.19218882989272,
+                    "lng": 27.86107417010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1f8825841ea8ec18e63c0cb440c29ebf9c23be18",
+        "name": "Siyabonga Secondary School",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 810,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117173829052278520657/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAmxTcgW8FAv8MlVG_9-UvxeQdAhJgO59kwnVSqy7MpKbp-dy6WD4AaJVh002JwrZ4aZZ_TSBiF0Ld0gDqgbwwT_jC0jbU7Amv1IsW4dFlLsX_rfgiXPgfdgiCMVT2R8aWEhDpQKwvU1Z3IRnid_yJep_hGhRrSIG85T3OBdoqItZ0-UMcnBK1cg",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJu81SHKehlR4RAFDOZXeBpa4",
+        "plus_code": {
+            "compound_code": "RV56+MX Soweto, South Africa",
+            "global_code": "5G59RV56+MX"
+        },
+        "rating": 4.8,
+        "reference": "ChIJu81SHKehlR4RAFDOZXeBpa4",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Forte High School": {
+        "formatted_address": "Jonas Moari St, Dobsonville, Soweto, 1863, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.214617,
+                "lng": 27.866853
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.21350362010728,
+                    "lng": 27.86823022989272
+                },
+                "southwest": {
+                    "lat": -26.21620327989272,
+                    "lng": 27.86553057010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "29a14d66b69666318db7d03cfbc1767b2b017044",
+        "name": "Forte High School",
+        "place_id": "ChIJZ7YnqCKhlR4RzB4J-Qcav-4",
+        "plus_code": {
+            "compound_code": "QVP8+5P Soweto, South Africa",
+            "global_code": "5G59QVP8+5P"
+        },
+        "rating": 4.8,
+        "reference": "ChIJZ7YnqCKhlR4RzB4J-Qcav-4",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Delrado Primary School": {
+        "formatted_address": "16 Leiklip Ave, Eldorado Park, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.3034453,
+                "lng": 27.8948003
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.30207847010728,
+                    "lng": 27.89591577989272
+                },
+                "southwest": {
+                    "lat": -26.30477812989272,
+                    "lng": 27.89321612010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "37ab4c0de9685d6910d2d2fc285452dbc7e2ca02",
+        "name": "Delrado Primary School",
+        "place_id": "ChIJH28lisOnlR4Repg_V71q6io",
+        "plus_code": {
+            "compound_code": "MVWV+JW Soweto, South Africa",
+            "global_code": "5G59MVWV+JW"
+        },
+        "rating": 4,
+        "reference": "ChIJH28lisOnlR4Repg_V71q6io",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Sivuleleni Primary School": {
+        "formatted_address": "1240, Zola, Soweto, 1878, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2351399,
+                "lng": 27.84317
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23379007010728,
+                    "lng": 27.84451982989272
+                },
+                "southwest": {
+                    "lat": -26.23648972989272,
+                    "lng": 27.84182017010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "55b0aa4b19ef5acebd342bdbb17b54b9cdd01e73",
+        "name": "Sivuleleni Primary School",
+        "place_id": "ChIJo8Q7AU6hlR4Rv5K1jkTJNEM",
+        "plus_code": {
+            "compound_code": "QR7V+W7 Soweto, South Africa",
+            "global_code": "5G59QR7V+W7"
+        },
+        "rating": 4.5,
+        "reference": "ChIJo8Q7AU6hlR4Rv5K1jkTJNEM",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Mxolisi Primary School": {
+        "formatted_address": "475 Dlamini St, Jabulani, Soweto, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.23968,
+                "lng": 27.86186
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23846247010728,
+                    "lng": 27.86340907989272
+                },
+                "southwest": {
+                    "lat": -26.24116212989272,
+                    "lng": 27.86070942010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "52145f166c0a97e4cc3ae7c5ba40c65b258a5494",
+        "name": "Mxolisi Primary School",
+        "place_id": "ChIJoQ1tYMymlR4RkpTLgkZxKLw",
+        "plus_code": {
+            "compound_code": "QV66+4P Soweto, South Africa",
+            "global_code": "5G59QV66+4P"
+        },
+        "rating": 0,
+        "reference": "ChIJoQ1tYMymlR4RkpTLgkZxKLw",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Emisebeni Junior Primary School": {
+        "formatted_address": "148, Mofolo Central, Soweto, 1801, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.23742,
+                "lng": 27.88147
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23607017010728,
+                    "lng": 27.88281982989272
+                },
+                "southwest": {
+                    "lat": -26.23876982989272,
+                    "lng": 27.88012017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fe0df7f230c9fa74043e57ba07e21c883e9f3f2c",
+        "name": "Emisebeni Junior Primary School",
+        "place_id": "ChIJIzBIziunlR4RF4d0leA4wW0",
+        "plus_code": {
+            "compound_code": "QV7J+2H Soweto, South Africa",
+            "global_code": "5G59QV7J+2H"
+        },
+        "rating": 5,
+        "reference": "ChIJIzBIziunlR4RF4d0leA4wW0",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Klip Valley Primary School": {
+        "formatted_address": "1634 Mabona St, Doornkop, Soweto, 1874, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.242442,
+                "lng": 27.808396
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24109217010728,
+                    "lng": 27.80974582989273
+                },
+                "southwest": {
+                    "lat": -26.24379182989273,
+                    "lng": 27.80704617010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "dd1f17c5a03ca926912e5c381620fd30bab9a911",
+        "name": "Klip Valley Primary School",
+        "place_id": "ChIJpxh7V_OjlR4RCRUUl5xUsfc",
+        "plus_code": {
+            "compound_code": "QR55+29 Soweto, South Africa",
+            "global_code": "5G59QR55+29"
+        },
+        "rating": 0,
+        "reference": "ChIJpxh7V_OjlR4RCRUUl5xUsfc",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Adelaide Tambo School for the Physically Challenged": {
+        "formatted_address": "Diokane St, Jabavu, Soweto, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2496042,
+                "lng": 27.8760558
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24818437010728,
+                    "lng": 27.87732152989272
+                },
+                "southwest": {
+                    "lat": -26.25088402989272,
+                    "lng": 27.87462187010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "004e91902b01017f9728064e4ea080a3ff5635c8",
+        "name": "Adelaide Tambo School for the Physically Challenged",
+        "place_id": "ChIJy88Pz9imlR4RQTLLeyO3DOc",
+        "plus_code": {
+            "compound_code": "QV2G+5C Soweto, South Africa",
+            "global_code": "5G59QV2G+5C"
+        },
+        "rating": 0,
+        "reference": "ChIJy88Pz9imlR4RQTLLeyO3DOc",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Thakhisa Primary School": {
+        "formatted_address": "1377 Meadowlands St, Meadowlands West Zone 9, Meadowlands West, 1852, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2111451,
+                "lng": 27.8810477
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.20979527010728,
+                    "lng": 27.88239752989272
+                },
+                "southwest": {
+                    "lat": -26.21249492989272,
+                    "lng": 27.87969787010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b07cae2c037a2dd9cfbcdb1e1bd4900524b64ecc",
+        "name": "Thakhisa Primary School",
+        "place_id": "ChIJ0T8dguCglR4R3HdIjJJmlUQ",
+        "plus_code": {
+            "compound_code": "QVQJ+GC Meadowlands West, South Africa",
+            "global_code": "5G59QVQJ+GC"
+        },
+        "rating": 4,
+        "reference": "ChIJ0T8dguCglR4R3HdIjJJmlUQ",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Mafori - Mphahlele High School": {
+        "formatted_address": "Masiane St, Molapo, Johannesburg, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.255799,
+                "lng": 27.863304
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25452072010728,
+                    "lng": 27.86428607989272
+                },
+                "southwest": {
+                    "lat": -26.25722037989272,
+                    "lng": 27.86158642010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b4ee3e182cfd21331ef0cb22647fbef7d1a6283b",
+        "name": "Mafori - Mphahlele High School",
+        "place_id": "ChIJr3VB_sKmlR4R3Wvo2Ksv2iE",
+        "plus_code": {
+            "compound_code": "PVV7+M8 Soweto, South Africa",
+            "global_code": "5G59PVV7+M8"
+        },
+        "rating": 5,
+        "reference": "ChIJr3VB_sKmlR4R3Wvo2Ksv2iE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "George Khosa Secondary School": {
+        "formatted_address": "3712, Dobsonville, Soweto, 1863, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.22159,
+                "lng": 27.86087
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.22024017010728,
+                    "lng": 27.86221982989272
+                },
+                "southwest": {
+                    "lat": -26.22293982989272,
+                    "lng": 27.85952017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "868929d6b11a1cb4822b4338b146ece84ac20b29",
+        "name": "George Khosa Secondary School",
+        "place_id": "ChIJ_6qX5DuhlR4R_CNYsVDlnqs",
+        "plus_code": {
+            "compound_code": "QVH6+98 Soweto, South Africa",
+            "global_code": "5G59QVH6+98"
+        },
+        "rating": 3.5,
+        "reference": "ChIJ_6qX5DuhlR4R_CNYsVDlnqs",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Hector Peterson School/Ukhozi Primary School": {
+        "formatted_address": "Gauteng, 8853 Mbali St, Dobsonville, Soweto, 1863, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2264033,
+                "lng": 27.8492996
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.22506042010728,
+                    "lng": 27.85066422989272
+                },
+                "southwest": {
+                    "lat": -26.22776007989272,
+                    "lng": 27.84796457010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "731932abec3ba228ad56448cb8804818a4f236af",
+        "name": "Hector Peterson School/Ukhozi Primary School",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJ08sOe0ahlR4R9t2YOh8Rrio",
+        "plus_code": {
+            "compound_code": "QRFX+CP Soweto, South Africa",
+            "global_code": "5G59QRFX+CP"
+        },
+        "rating": 0,
+        "reference": "ChIJ08sOe0ahlR4R9t2YOh8Rrio",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Kholwani Primary School": {
+        "formatted_address": "1431, Jabulani, Soweto, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2428299,
+                "lng": 27.852
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24148007010728,
+                    "lng": 27.85334982989272
+                },
+                "southwest": {
+                    "lat": -26.24417972989273,
+                    "lng": 27.85065017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "48256e3c33e23dfd1a6697bb13e2944c6f19aeff",
+        "name": "Kholwani Primary School",
+        "place_id": "ChIJO34rtLWmlR4Req9A9YD2u8I",
+        "plus_code": {
+            "compound_code": "QV42+VR Soweto, South Africa",
+            "global_code": "5G59QV42+VR"
+        },
+        "rating": 3.6,
+        "reference": "ChIJO34rtLWmlR4Req9A9YD2u8I",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Indyebo Primary School": {
+        "formatted_address": "Zola, Soweto, 1878, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.23827,
+                "lng": 27.84428
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23692017010728,
+                    "lng": 27.84562982989272
+                },
+                "southwest": {
+                    "lat": -26.23961982989272,
+                    "lng": 27.84293017010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "358f720f3b5f73198bf1546b18ba4606955082a7",
+        "name": "Indyebo Primary School",
+        "place_id": "ChIJizZvb02hlR4R_u4QQTGq2LA",
+        "plus_code": {
+            "compound_code": "QR6V+MP Soweto, South Africa",
+            "global_code": "5G59QR6V+MP"
+        },
+        "rating": 0,
+        "reference": "ChIJizZvb02hlR4R_u4QQTGq2LA",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Bafikile Primary School": {
+        "formatted_address": "863 Shezi St, Senoane, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.27106,
+                "lng": 27.86843
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26995032010728,
+                    "lng": 27.86970157989272
+                },
+                "southwest": {
+                    "lat": -26.27264997989272,
+                    "lng": 27.86700192010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c03f520b941175ae027e25c3b0081b8ff04b3c1a",
+        "name": "Bafikile Primary School",
+        "place_id": "ChIJh2r0WfqmlR4RuaozCU1uHWA",
+        "plus_code": {
+            "compound_code": "PVH9+H9 Soweto, South Africa",
+            "global_code": "5G59PVH9+H9"
+        },
+        "rating": 4,
+        "reference": "ChIJh2r0WfqmlR4RuaozCU1uHWA",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Ikusasalethu Secondary School": {
+        "formatted_address": "15937 Apex St, Bram Fischerville, Soweto, 1875, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1918497,
+                "lng": 27.8313482
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.19045202010728,
+                    "lng": 27.83256557989272
+                },
+                "southwest": {
+                    "lat": -26.19315167989272,
+                    "lng": 27.82986592010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "250a04e24c3c276d48fc6cba0e8da96125505087",
+        "name": "Ikusasalethu Secondary School",
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102657578152538231975/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAADlT9vXfQ7nLA_NCvvAsGl07cf9qU83FDkSgvp6j_FpNVm-TilpDk5RiahQoQZ4UAAgOgGnPBZp3ersDlPAtuQKVDsGZ_vKWuGsEZYbHxA5hE3npXmkWTK3tHTFQnaIy1EhCf-t7u8HpJUMVedAMOwTCKGhSatME9wIDRrTd0V7w8eqOPdvYb8Q",
+                "width": 960
+            }
+        ],
+        "place_id": "ChIJYfYLf4ehlR4RRvjC_V-U0rQ",
+        "plus_code": {
+            "compound_code": "RR5J+7G Soweto, South Africa",
+            "global_code": "5G59RR5J+7G"
+        },
+        "rating": 0,
+        "reference": "ChIJYfYLf4ehlR4RRvjC_V-U0rQ",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Eldridge Primary School": {
+        "formatted_address": "Eldorado Park, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.29739,
+                "lng": 27.92046
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.29604017010728,
+                    "lng": 27.92180982989273
+                },
+                "southwest": {
+                    "lat": -26.29873982989273,
+                    "lng": 27.91911017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fb05d4921d616b131b13c50c3c596a53e2ff3e88",
+        "name": "Eldridge Primary School",
+        "place_id": "ChIJjyzj3fanlR4R9I57ckeqnfs",
+        "plus_code": {
+            "compound_code": "PW3C+25 Soweto, South Africa",
+            "global_code": "5G59PW3C+25"
+        },
+        "rating": 3,
+        "reference": "ChIJjyzj3fanlR4R9I57ckeqnfs",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Dr Vilakazi High School": {
+        "formatted_address": "Njongo St, Soweto, Johannesburg, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.238362,
+                "lng": 27.830724
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23686662010728,
+                    "lng": 27.83194172989272
+                },
+                "southwest": {
+                    "lat": -26.23956627989272,
+                    "lng": 27.82924207010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "43c8fe2d4036592ad40ed599fee9f9753af265e2",
+        "name": "Dr Vilakazi High School",
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116923120348528959308/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAdXZKrgHIFckGkdkYTsSWoN84P8xFtisiXvBTklfeCuL37dXmz7239soo-wZEkrxUWlvY8Q-ANsIU_QMcGKeW6CWgTzL8IqaVRtzEKQw9lJ0j4vXd8x6Q8vmedhaFm6xxEhCKbjJRGObGnR-crE_P1EseGhS8Il1fxzBHGkn52blTNBav8HyiNw",
+                "width": 1111
+            }
+        ],
+        "place_id": "ChIJP_2DAf6jlR4RYpF-K039r00",
+        "plus_code": {
+            "compound_code": "QR6J+M7 Soweto, South Africa",
+            "global_code": "5G59QR6J+M7"
+        },
+        "rating": 4.1,
+        "reference": "ChIJP_2DAf6jlR4RYpF-K039r00",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Gazankulu Primary School": {
+        "formatted_address": "2710, Chiawelo, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2860799,
+                "lng": 27.86421
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.28473007010728,
+                    "lng": 27.86555982989272
+                },
+                "southwest": {
+                    "lat": -26.28742972989272,
+                    "lng": 27.86286017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8066c30c10b945ee3109671b0139ec4deef22fc4",
+        "name": "Gazankulu Primary School",
+        "place_id": "ChIJ10dCOlqmlR4R2_ZgWcDrpRE",
+        "plus_code": {
+            "compound_code": "PV77+HM Soweto, South Africa",
+            "global_code": "5G59PV77+HM"
+        },
+        "rating": 5,
+        "reference": "ChIJ10dCOlqmlR4R2_ZgWcDrpRE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Lancea Vale Secondary School": {
+        "formatted_address": "18 Brandvlei Cres, Eldorado Park, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2871873,
+                "lng": 27.9130573
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.28595522010728,
+                    "lng": 27.91393867989272
+                },
+                "southwest": {
+                    "lat": -26.28865487989272,
+                    "lng": 27.91123902010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "939f44251dd2188606154e11ab6e3f2100c9807d",
+        "name": "Lancea Vale Secondary School",
+        "place_id": "ChIJnVuICpKnlR4RZgAk4yUqD34",
+        "plus_code": {
+            "compound_code": "PW77+46 Soweto, South Africa",
+            "global_code": "5G59PW77+46"
+        },
+        "rating": 4.3,
+        "reference": "ChIJnVuICpKnlR4RZgAk4yUqD34",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Eldocrest Primary School": {
+        "formatted_address": "Dartmoor Ave, Eldorado Park, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2869591,
+                "lng": 27.8975504
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.28589147010728,
+                    "lng": 27.89887657989272
+                },
+                "southwest": {
+                    "lat": -26.28859112989272,
+                    "lng": 27.89617692010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "76416b8e5b4e36d89125ee0b9aa5788c924cfdb5",
+        "name": "Eldocrest Primary School",
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102832834776295919744/photos\">Peter Tatrai</a>"
+                ],
+                "photo_reference": "CmRaAAAADBh5jxYL2xLv93v4TpUIPuyOrbK66x8LYt9Vk_44KxhS5iPZktWN1E2pzUHb-KPm1dL5o5qFoKtkfecrAZ490xXhCVwYfeAsxcucqDjjs_RzhB-04uK9J_sf5l_QQqb1EhDP4OC8w7ga5edSz2UJaPdeGhT73Qie1hnr6KYL4UavlmiWmp6eQQ",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJBxttFLynlR4RDANg6s-xpSY",
+        "plus_code": {
+            "compound_code": "PV7X+62 Soweto, South Africa",
+            "global_code": "5G59PV7X+62"
+        },
+        "rating": 3.9,
+        "reference": "ChIJBxttFLynlR4RDANg6s-xpSY",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Mncube Secondary School": {
+        "formatted_address": "1670, Mofolo North, Soweto, 1801, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.22761,
+                "lng": 27.88115
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.22626017010728,
+                    "lng": 27.88249982989272
+                },
+                "southwest": {
+                    "lat": -26.22895982989272,
+                    "lng": 27.87980017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "718df5f023aed8a180bfb6eeb4f3f5f3374cda8d",
+        "name": "Mncube Secondary School",
+        "photos": [
+            {
+                "height": 2336,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109794635243815977529/photos\">Abram Makgalemele</a>"
+                ],
+                "photo_reference": "CmRaAAAAsMoOoq6kDdHS3tbYcEGdP5WZsnUjmOiDqss1v_r2vWKGpMFfSkz6MtwgPtpu0fFdbGgCIGPFCjii412ybThGES34Zub1gOlnhpImv94dHdCdFSfT4l-9aUFalR8D9JFlEhDtnDMe8P2YjsePETUWf16oGhTTEXuWW7qXlkD-4ixye1weN6lM9Q",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJSaypK9SglR4RNEHN6kMpnDU",
+        "plus_code": {
+            "compound_code": "QVCJ+XF Soweto, South Africa",
+            "global_code": "5G59QVCJ+XF"
+        },
+        "rating": 3.7,
+        "reference": "ChIJSaypK9SglR4RNEHN6kMpnDU",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Ibhongo Secondary School": {
+        "formatted_address": "Chris Hani Rd, Soweto, Johannesburg, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2725039,
+                "lng": 27.874548
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27093557010728,
+                    "lng": 27.87552607989272
+                },
+                "southwest": {
+                    "lat": -26.27363522989272,
+                    "lng": 27.87282642010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "accf702e110d62f8a9932fac7dafd482c51bacf9",
+        "name": "Ibhongo Secondary School",
+        "photos": [
+            {
+                "height": 4128,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104645070986033703258/photos\">bongani bulana</a>"
+                ],
+                "photo_reference": "CmRaAAAAJ6qiwpaDH2FOoxYT1T83drjvLNNLbLnvCngOmjMHQggJen5XBcMpIuHMplHcmOjJnS8CkfNw54dTPUSTsHuXRd1QNAyq1hRdtRrRRiJ2yOLuNDfbvdzSplmjA36zWhJOEhBWagZR2JZDap-MvfA0-b44GhTIOGBTF6eAarjuMxkLX1u0ocTVaA",
+                "width": 2322
+            }
+        ],
+        "place_id": "ChIJ6T9wgv6mlR4R7mx880xADsM",
+        "plus_code": {
+            "compound_code": "PVGF+XR Soweto, South Africa",
+            "global_code": "5G59PVGF+XR"
+        },
+        "rating": 4,
+        "reference": "ChIJ6T9wgv6mlR4R7mx880xADsM",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Vukazenzele Primary School": {
+        "formatted_address": "999, Mofolo North, Soweto, 1801, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2349599,
+                "lng": 27.87812
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23361007010728,
+                    "lng": 27.87946982989272
+                },
+                "southwest": {
+                    "lat": -26.23630972989272,
+                    "lng": 27.87677017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cd7bd7bee6f6e1ffd1704ce971e1fd97a570e939",
+        "name": "Vukazenzele Primary School",
+        "place_id": "ChIJIyu2nyqnlR4RE0UMcBXgwlc",
+        "plus_code": {
+            "compound_code": "QV8H+26 Soweto, South Africa",
+            "global_code": "5G59QV8H+26"
+        },
+        "rating": 0,
+        "reference": "ChIJIyu2nyqnlR4RE0UMcBXgwlc",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Thathani Primary School": {
+        "formatted_address": "1586 A Mdlalose St, Zola, Soweto, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.238322,
+                "lng": 27.844404
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23680562010728,
+                    "lng": 27.84563442989272
+                },
+                "southwest": {
+                    "lat": -26.23950527989272,
+                    "lng": 27.84293477010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "083fde07276ec087004329eca5c8d93844aa8425",
+        "name": "Thathani Primary School",
+        "place_id": "ChIJ0yPfDE2hlR4RaUXjm3v-aWg",
+        "plus_code": {
+            "compound_code": "QR6V+MQ Soweto, South Africa",
+            "global_code": "5G59QR6V+MQ"
+        },
+        "rating": 0,
+        "reference": "ChIJ0yPfDE2hlR4RaUXjm3v-aWg",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Boston City Campus & Business College - Maponya Mall": {
+        "formatted_address": "406, Maponya Mall, 2127 Chris Hani Rd, Klipspruit, Soweto, 2127, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2581542,
+                "lng": 27.9016007
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25680437010728,
+                    "lng": 27.90295052989272
+                },
+                "southwest": {
+                    "lat": -26.25950402989272,
+                    "lng": 27.90025087010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "43c3b82002347700ea7ecf0759f05af84a5b0825",
+        "name": "Boston City Campus & Business College - Maponya Mall",
+        "place_id": "ChIJ27QcQX2mlR4RB3-JGZYAzNI",
+        "plus_code": {
+            "compound_code": "PWR2+PJ Soweto, South Africa",
+            "global_code": "5G59PWR2+PJ"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ27QcQX2mlR4RB3-JGZYAzNI",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "South West Gauteng TVET College - Roodeport": {
+        "formatted_address": "Corner Koma Road And Molele Street, 822 A Van Onselen Rd, Dobsonville, Johannesburg, 1863, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2135569,
+                "lng": 27.874307
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.21258927010727,
+                    "lng": 27.87568077989273
+                },
+                "southwest": {
+                    "lat": -26.21528892989272,
+                    "lng": 27.87298112010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "97403381505ea989d23ca61b3eb6c863fac6f8a9",
+        "name": "South West Gauteng TVET College - Roodeport",
+        "place_id": "ChIJke-yL2OflR4RaZNLz1hMxBo",
+        "plus_code": {
+            "compound_code": "QVPF+HP Soweto, South Africa",
+            "global_code": "5G59QVPF+HP"
+        },
+        "rating": 3.5,
+        "reference": "ChIJke-yL2OflR4RaZNLz1hMxBo",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "South West College Corporate Office": {
+        "formatted_address": "1822 A Molele St & C/O Koma Road And Molele Street, Molapo, Johannesburg, 1860, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2649429,
+                "lng": 27.8605697
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26359307010728,
+                    "lng": 27.86191952989272
+                },
+                "southwest": {
+                    "lat": -26.26629272989272,
+                    "lng": 27.85921987010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eafd62b0e1423be6629e72cb098f35c451dede88",
+        "name": "South West College Corporate Office",
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117851225413291376298/photos\">Khotso Mosenye</a>"
+                ],
+                "photo_reference": "CmRaAAAAQwFFB555eeOuvmfrETsx8U9rgB58Q9bgvwCm9O_KbGXKOcvey9cLBhjgdNy6kcPUi2YYUFAPVBj7Jzuv7HoXkfhECb6yVsiMuLPf2U0NG7ia-tvbhgxZFIj-n9FuendWEhBykLwvnjOJgbmB6J-aCBOKGhQA47HwCWIujpPF64aCsgLgcwkikg",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJm3Q0jO6mlR4RysTDc35hRoA",
+        "plus_code": {
+            "compound_code": "PVP6+26 Soweto, South Africa",
+            "global_code": "5G59PVP6+26"
+        },
+        "rating": 4.2,
+        "reference": "ChIJm3Q0jO6mlR4RysTDc35hRoA",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Soweto College of Education": {
+        "formatted_address": "Modjadji Street & Old Potch Road, Pimville Zone 1, Pimville, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2596399,
+                "lng": 27.9112851
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25829007010728,
+                    "lng": 27.91263492989272
+                },
+                "southwest": {
+                    "lat": -26.26098972989273,
+                    "lng": 27.90993527010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b9bb12eb827e3839093f5e7f2fdb20e142c6f550",
+        "name": "Soweto College of Education",
+        "place_id": "ChIJw_RpMgUMlR4RdFHMj906sMA",
+        "plus_code": {
+            "compound_code": "PWR6+4G Pimville, South Africa",
+            "global_code": "5G59PWR6+4G"
+        },
+        "rating": 3,
+        "reference": "ChIJw_RpMgUMlR4RdFHMj906sMA",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "South West College": {
+        "formatted_address": "Soweto, Johannesburg, 1865, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2136639,
+                "lng": 27.873929
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.21231407010728,
+                    "lng": 27.87527882989272
+                },
+                "southwest": {
+                    "lat": -26.21501372989272,
+                    "lng": 27.87257917010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3a57a684dde997fba29f2eb6a404c879ebea68ae",
+        "name": "South West College",
+        "place_id": "ChIJuX7hwyGhlR4ReALQsj17-5U",
+        "plus_code": {
+            "compound_code": "QVPF+GH Soweto, South Africa",
+            "global_code": "5G59QVPF+GH"
+        },
+        "rating": 0,
+        "reference": "ChIJuX7hwyGhlR4ReALQsj17-5U",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Pace Community College": {
+        "formatted_address": "1340, Bendile St, Soweto, Johannesburg, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.240036,
+                "lng": 27.854647
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23839082010728,
+                    "lng": 27.85584372989272
+                },
+                "southwest": {
+                    "lat": -26.24109047989272,
+                    "lng": 27.85314407010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c88fa25d5999119d3c4fdee0d3e79789cb41e266",
+        "name": "Pace Community College",
+        "photos": [
+            {
+                "height": 2336,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109794635243815977529/photos\">Abram Makgalemele</a>"
+                ],
+                "photo_reference": "CmRaAAAAtf11RMAM53rawA5NoV9l528C_lPzMYy3okkxYsaZ3tz_Mobo1M-IJQDrlWnxj0yP95gQHkAdOG9v-PUqQTuL9cb8mkmLrDdipJAvIp9TpyTzFIjO6D2qJguiuSDf1SpXEhBSNLa4z9xjueaSGRKUWeEeGhSSDwz9SfPIfqeMe-CQyEyMbtjy2Q",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJoeAVncqmlR4RC5VRWpzCRHI",
+        "plus_code": {
+            "compound_code": "QV53+XV Soweto, South Africa",
+            "global_code": "5G59QV53+XV"
+        },
+        "rating": 4,
+        "reference": "ChIJoeAVncqmlR4RC5VRWpzCRHI",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Protea Glen College": {
+        "formatted_address": "Crn 104 Red Current & Protea Boulevard Str, Shop 49 Sizwe Shopping Centre, Protea Glen, Soweto, 1819, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.276664,
+                "lng": 27.821564
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27531417010728,
+                    "lng": 27.82291382989272
+                },
+                "southwest": {
+                    "lat": -26.27801382989272,
+                    "lng": 27.82021417010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "d71f67d431e8c9024c6837fb9915781fef921196",
+        "name": "Protea Glen College",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103114681070204310775/photos\">Protea Glen College</a>"
+                ],
+                "photo_reference": "CmRaAAAAtlw07Z-Yti_2F4z1YDjCB4YtQP401bi7BxSt7IphPrfmM_diaAo6rpBNSOE_q6K0V_-umwdhh3ormXRG4yCEw_JzFkvKmP42i155yg4nPkFyLpSXPQrxbzZpehg8jcXGEhA7Xu3SkSvafsTm0vNfh8B1GhQ9bt1cx0eyL8bGZH678uqXvaimXQ",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJF8V3bSWklR4Rg53SLYSF_-M",
+        "plus_code": {
+            "compound_code": "PRFC+8J Soweto, South Africa",
+            "global_code": "5G59PRFC+8J"
+        },
+        "rating": 4.3,
+        "reference": "ChIJF8V3bSWklR4Rg53SLYSF_-M",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "WO BIBLE COLLEGE": {
+        "formatted_address": "02065 Mampona St, Moroka, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.26606,
+                "lng": 27.87366
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26477127010728,
+                    "lng": 27.87493002989272
+                },
+                "southwest": {
+                    "lat": -26.26747092989272,
+                    "lng": 27.87223037010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b0f6aad271fad5a2db6f89f879c34994dbaa59cb",
+        "name": "WO BIBLE COLLEGE",
+        "place_id": "ChIJkR6EOOOmlR4RJF8afBG9nT4",
+        "plus_code": {
+            "compound_code": "PVMF+HF Soweto, South Africa",
+            "global_code": "5G59PVMF+HF"
+        },
+        "rating": 5,
+        "reference": "ChIJkR6EOOOmlR4RJF8afBG9nT4",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Johannesburg Bible College, Soweto Campus": {
+        "formatted_address": "1032 Mbambisa St, Klipspruit, Soweto, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2569387,
+                "lng": 27.9158981
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25560522010728,
+                    "lng": 27.91727382989272
+                },
+                "southwest": {
+                    "lat": -26.25830487989272,
+                    "lng": 27.91457417010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "62182b34e0a3cb3af01767bae395ec303a0c37ab",
+        "name": "Johannesburg Bible College, Soweto Campus",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJxU4XIWWnlR4RYGZrhVglbRc",
+        "plus_code": {
+            "compound_code": "PWV8+69 Soweto, South Africa",
+            "global_code": "5G59PWV8+69"
+        },
+        "rating": 0,
+        "reference": "ChIJxU4XIWWnlR4RYGZrhVglbRc",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Izipho Zomphakathi Multiskills": {
+        "formatted_address": "1378 Ingwayuma St, Senaoane, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2768671,
+                "lng": 27.8648
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27551757010728,
+                    "lng": 27.86613317989272
+                },
+                "southwest": {
+                    "lat": -26.27821722989273,
+                    "lng": 27.86343352010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f0c59068b4c936c682d6114378e39318d2fcaaa0",
+        "name": "Izipho Zomphakathi Multiskills",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109507370632718734601/photos\">Izipho Zomphakathi Multiskills</a>"
+                ],
+                "photo_reference": "CmRZAAAAki_0CeuFCHtPh5o-N8-aIVIMvXtsl-5la0gx3VnVQajULsHOkLvPeU3y5MNkcqExU3m7oGn_cTZ7iwgVb-F21COPwrrlkvVHPExJkQ9QXnyIIiGJGlUeAdoymwS8zSGOEhACLfYR1qV71nTtOnlMjxtmGhRbJGI-HXuTLmVOJCUeIl2pP1nTCw",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJnWKwCvemlR4ROt2-cBgVby0",
+        "plus_code": {
+            "compound_code": "PVF7+7W Soweto, South Africa",
+            "global_code": "5G59PVF7+7W"
+        },
+        "rating": 0,
+        "reference": "ChIJnWKwCvemlR4ROt2-cBgVby0",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Funda Community College": {
+        "formatted_address": "8642, 8642 Immink Dr, Diepkloof Zone 6, Diepkloof, 1864, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2577529,
+                "lng": 27.934676
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25645042010728,
+                    "lng": 27.93620317989273
+                },
+                "southwest": {
+                    "lat": -26.25915007989272,
+                    "lng": 27.93350352010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c4d24b90a877c0528326f04bace84da6d2e549ad",
+        "name": "Funda Community College",
+        "place_id": "ChIJpXzTab8JlR4R7bDjbdYOViM",
+        "plus_code": {
+            "compound_code": "PWRM+VV Diepkloof, South Africa",
+            "global_code": "5G59PWRM+VV"
+        },
+        "rating": 4,
+        "reference": "ChIJpXzTab8JlR4R7bDjbdYOViM",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "PC Training & Business College": {
+        "formatted_address": "Black Chain, Chris Hani Rd, Diepkloof, Johannesburg, 2001, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.258319,
+                "lng": 27.942437
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25696917010728,
+                    "lng": 27.94378682989272
+                },
+                "southwest": {
+                    "lat": -26.25966882989272,
+                    "lng": 27.94108717010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "605cb97c0385f72d2b297d11e3880b1758815994",
+        "name": "PC Training & Business College",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJYY9nB8wJlR4RXZqXqkmnlqM",
+        "plus_code": {
+            "compound_code": "PWRR+MX Diepkloof, South Africa",
+            "global_code": "5G59PWRR+MX"
+        },
+        "rating": 0,
+        "reference": "ChIJYY9nB8wJlR4RXZqXqkmnlqM",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Teacher Development Centre (Central District D14)": {
+        "formatted_address": "Vundla St, Moroka, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2660226,
+                "lng": 27.8742959
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26467277010728,
+                    "lng": 27.87564572989272
+                },
+                "southwest": {
+                    "lat": -26.26737242989272,
+                    "lng": 27.87294607010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8420e8211dea653bda0194493f3ce6a40dcbb4a1",
+        "name": "Teacher Development Centre (Central District D14)",
+        "place_id": "ChIJP33rKkCnlR4RzoSrHM6WI1Q",
+        "plus_code": {
+            "compound_code": "PVMF+HP Soweto, South Africa",
+            "global_code": "5G59PVMF+HP"
+        },
+        "rating": 0,
+        "reference": "ChIJP33rKkCnlR4RzoSrHM6WI1Q",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Life College Of Learning Westrand": {
+        "formatted_address": "Rudeport, Robertville, Randburg, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1919564,
+                "lng": 27.9241679
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.19060657010728,
+                    "lng": 27.92551772989272
+                },
+                "southwest": {
+                    "lat": -26.19330622989272,
+                    "lng": 27.92281807010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ef9606e1f200a5b2254a1000ad46f099d6023af8",
+        "name": "Life College Of Learning Westrand",
+        "place_id": "ChIJAQAAUJ2glR4REPJCNnU_MJI",
+        "plus_code": {
+            "compound_code": "RW5F+6M Roodepoort, South Africa",
+            "global_code": "5G59RW5F+6M"
+        },
+        "rating": 0,
+        "reference": "ChIJAQAAUJ2glR4REPJCNnU_MJI",
+        "types": [
+            "university",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "JORDAN THEOLOGGICAL INSTITUTE": {
+        "formatted_address": "2796 Zone 10, Meadowlands, Johannesburg, 1852, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.202619,
+                "lng": 27.876563
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.20126917010728,
+                    "lng": 27.87791282989272
+                },
+                "southwest": {
+                    "lat": -26.20396882989272,
+                    "lng": 27.87521317010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a9aa8e18d8b5910c50c097e683108bbf4d8b190f",
+        "name": "JORDAN THEOLOGGICAL INSTITUTE",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJ6aqqah2hlR4R3wBhxFZjYEU",
+        "rating": 0,
+        "reference": "ChIJ6aqqah2hlR4R3wBhxFZjYEU",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Lebo Sibi": {
+        "formatted_address": "251 12,, Absalome Protea Glen Extension 16, Soweto, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2757141,
+                "lng": 27.8117332
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27436427010727,
+                    "lng": 27.81308302989272
+                },
+                "southwest": {
+                    "lat": -26.27706392989272,
+                    "lng": 27.81038337010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a80711040f460b4af83b3943173bd39bfd1efad4",
+        "name": "Lebo Sibi",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJATx4PjmklR4R8htWBTvFMGg",
+        "plus_code": {
+            "compound_code": "PRF6+PM Soweto, South Africa",
+            "global_code": "5G59PRF6+PM"
+        },
+        "rating": 0,
+        "reference": "ChIJATx4PjmklR4R8htWBTvFMGg",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "BAM PUBLISHERS (PTY) LTD": {
+        "formatted_address": "2796 Zone 10, Meadowlands, Johannesburg, 1852, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.20312,
+                "lng": 27.877507
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.20177017010727,
+                    "lng": 27.87885682989272
+                },
+                "southwest": {
+                    "lat": -26.20446982989272,
+                    "lng": 27.87615717010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fee87f101a5d98863daa179bbf8eee58cc943812",
+        "name": "BAM PUBLISHERS (PTY) LTD",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 554,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111678878039288308663/photos\">BAM PUBLISHERS (PTY) LTD</a>"
+                ],
+                "photo_reference": "CmRaAAAAFb33_dBnxizTVQJ-0tE-3jx44aA-qbL7tehyQQtDIvD3yrrRf0RWXFgkneTXVCQ0S_LcsXtGMP0lOCpJzZQ6TM3j-hpMw6kq5GiCZ83kpNcZDh_zENki8_vacDxAirv6EhCmKU1sxMlFRk2yfBEbsvRpGhR-IdJmtPsiXZ4P9z7S2uCk01HNxA",
+                "width": 1201
+            }
+        ],
+        "place_id": "ChIJk58uex2hlR4ROeWraBDkYyI",
+        "rating": 2,
+        "reference": "ChIJk58uex2hlR4ROeWraBDkYyI",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Prestige College": {
+        "formatted_address": "29 Key St, Protea Glen, Soweto, 1834, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2719769,
+                "lng": 27.7706557
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27032062010728,
+                    "lng": 27.77220917989272
+                },
+                "southwest": {
+                    "lat": -26.27302027989272,
+                    "lng": 27.76950952010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a424db72feab68e73c503d82b34604ac7708e350",
+        "name": "Prestige College",
+        "place_id": "ChIJDft1PLGllR4RM2gBneBlR4Q",
+        "plus_code": {
+            "compound_code": "PQHC+67 Soweto, South Africa",
+            "global_code": "5G59PQHC+67"
+        },
+        "rating": 0,
+        "reference": "ChIJDft1PLGllR4RM2gBneBlR4Q",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "South West Gauteng College - Roodepoort Campus": {
+        "formatted_address": "3 Webber Ave, Horizon View, Roodepoort, 1724, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1404831,
+                "lng": 27.8677946
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.13917322010728,
+                    "lng": 27.86923987989272
+                },
+                "southwest": {
+                    "lat": -26.14187287989272,
+                    "lng": 27.86654022010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f62f8a4b90d59e2f8c02067ff251eaae5aa5dfe1",
+        "name": "South West Gauteng College - Roodepoort Campus",
+        "photos": [
+            {
+                "height": 1932,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112206019153275384455/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAA-YebohBL2gPZlzKpzgYHwGiZt7KG2NrzCGOVFDWph8OPfibsIyPJrpZmTjBT7E6EsTsddJwyMskICo-ue8mQC3PDny_FHa_7GQoZpdk9JlRwdgM0A30ThifgGiRqlj1BEhB4afxJVUuLdsCqUP-i08sVGhSeSMYOpbalBVYQlgLP9BafxJrySQ",
+                "width": 2576
+            }
+        ],
+        "place_id": "ChIJjduRLHuflR4RekC4vmehPK4",
+        "plus_code": {
+            "compound_code": "VV59+R4 Roodepoort, South Africa",
+            "global_code": "5G59VV59+R4"
+        },
+        "rating": 2.6,
+        "reference": "ChIJjduRLHuflR4RekC4vmehPK4",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Rhodes FET Technical College": {
+        "formatted_address": "Campus A, Murzooq Centre, Eland St, Lenasia Ext 2, Johannesburg, 1827, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.3203839,
+                "lng": 27.825767
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.31899792010728,
+                    "lng": 27.82693392989272
+                },
+                "southwest": {
+                    "lat": -26.32169757989272,
+                    "lng": 27.82423427010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "00fcb7325a8825d5985ac035ec5a484186c7bf2e",
+        "name": "Rhodes FET Technical College",
+        "place_id": "ChIJ26W0xfyllR4RyfTijHBrC7s",
+        "plus_code": {
+            "compound_code": "MRHG+R8 Lenasia, South Africa",
+            "global_code": "5G59MRHG+R8"
+        },
+        "rating": 3,
+        "reference": "ChIJ26W0xfyllR4RyfTijHBrC7s",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Johannesburg Bible College": {
+        "formatted_address": "Corner Golf street, 30 Hampton Ave, Auckland Park, Johannesburg, 2092, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1893724,
+                "lng": 27.9931137
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.18786012010728,
+                    "lng": 27.99446957989272
+                },
+                "southwest": {
+                    "lat": -26.19055977989273,
+                    "lng": 27.99176992010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8b137352b2e025bd2bdd5cb338deff5549e72253",
+        "name": "Johannesburg Bible College",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118404632399749180492/photos\">Nat Schluter</a>"
+                ],
+                "photo_reference": "CmRaAAAA08UtIC_NnjNlER1HR9ESUzTfmn5YyFlukAbdvxAARYHtUA9ntHsVdxslfhZfK7jPP1EuORc1ghOL_RICfXbNHa4sQvExT9nSF7Sgux5JoQzf0DxHHbGpMewAWc6ZQfwEEhCG_KEMNO-zrhPQrQ9CHJAdGhTweeYB7uRu25e1T1jyFHOaBSc3hQ",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJ2YEzQ8ALlR4RfXs5dlXzRLo",
+        "plus_code": {
+            "compound_code": "RX6V+76 Johannesburg, South Africa",
+            "global_code": "5G59RX6V+76"
+        },
+        "rating": 5,
+        "reference": "ChIJ2YEzQ8ALlR4RfXs5dlXzRLo",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "St Barnbas College": {
+        "formatted_address": "34 Langeberg Ave, Bosmont, Randburg, 2093, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1898377,
+                "lng": 27.9517133
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.18843372010728,
+                    "lng": 27.95308692989272
+                },
+                "southwest": {
+                    "lat": -26.19113337989272,
+                    "lng": 27.95038727010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "19616e6a96c01ac62e87a5aa24bbe5e3e1f0096a",
+        "name": "St Barnbas College",
+        "place_id": "ChIJx7Qq0EMKlR4R3tr7BNSPhwE",
+        "plus_code": {
+            "compound_code": "RX62+3M Randburg, South Africa",
+            "global_code": "5G59RX62+3M"
+        },
+        "rating": 4.9,
+        "reference": "ChIJx7Qq0EMKlR4R3tr7BNSPhwE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Makentse": {
+        "formatted_address": "2410 Lesedi St, Soweto, 1723 Lesedi St, Doornkop, Soweto, 1723, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2374065,
+                "lng": 27.8078506
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23612092010728,
+                    "lng": 27.80919587989272
+                },
+                "southwest": {
+                    "lat": -26.23882057989272,
+                    "lng": 27.80649622010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6fd5e3461acb7831179ef369db00d96c22089699",
+        "name": "Makentse",
+        "place_id": "ChIJBxaMqvKjlR4Rq88-p2TzMrs",
+        "plus_code": {
+            "compound_code": "QR75+24 Soweto, South Africa",
+            "global_code": "5G59QR75+24"
+        },
+        "rating": 0,
+        "reference": "ChIJBxaMqvKjlR4Rq88-p2TzMrs",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Amadoda Ayasebenza (PTY) LTD": {
+        "formatted_address": "475 Makhubu St, Klipspruit, Soweto, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2548332,
+                "lng": 27.9101229
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25343627010728,
+                    "lng": 27.91151962989272
+                },
+                "southwest": {
+                    "lat": -26.25613592989272,
+                    "lng": 27.90881997010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "df7820e0484cc6110e6b44b33b240c73af89c972",
+        "name": "Amadoda Ayasebenza (PTY) LTD",
+        "place_id": "ChIJp7fP2G6nlR4RBRFcsMr6s9Y",
+        "plus_code": {
+            "compound_code": "PWW6+32 Soweto, South Africa",
+            "global_code": "5G59PWW6+32"
+        },
+        "rating": 0,
+        "reference": "ChIJp7fP2G6nlR4RBRFcsMr6s9Y",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Boston City Campus & Business College Roodeport": {
+        "formatted_address": "Horizon Office Park, 157 Ontdekkers Rd, Horizon View, Johanneburg, 1714, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.13998,
+                "lng": 27.86897
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.13872652010727,
+                    "lng": 27.87027202989272
+                },
+                "southwest": {
+                    "lat": -26.14142617989272,
+                    "lng": 27.86757237010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2be04638d7c1fb2ff030fd676e2c7872ed50111d",
+        "name": "Boston City Campus & Business College Roodeport",
+        "place_id": "ChIJ-ztRAHuflR4R5d9ZY8qqldE",
+        "plus_code": {
+            "compound_code": "VV69+2H Roodepoort, South Africa",
+            "global_code": "5G59VV69+2H"
+        },
+        "rating": 4,
+        "reference": "ChIJ-ztRAHuflR4R5d9ZY8qqldE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "ROYAL COLLEGE": {
+        "formatted_address": "ST House, 23 Goldman St, Florida, Johannesburg, 1709, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.171561,
+                "lng": 27.909915
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.17026927010728,
+                    "lng": 27.91124127989272
+                },
+                "southwest": {
+                    "lat": -26.17296892989273,
+                    "lng": 27.90854162010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "899a529980fc47173ba476f904a6ed6e19ca23c8",
+        "name": "ROYAL COLLEGE",
+        "place_id": "ChIJ7zkCdG-glR4RMcPGTd3cIOA",
+        "plus_code": {
+            "compound_code": "RWH5+9X Roodepoort, South Africa",
+            "global_code": "5G59RWH5+9X"
+        },
+        "rating": 4,
+        "reference": "ChIJ7zkCdG-glR4RMcPGTd3cIOA",
+        "types": [
+            "university",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Greenwich College": {
+        "formatted_address": "212 Voortrekker Rd, Monument Ext 1, Krugersdorp, 1739, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.16453,
+                "lng": 27.91637
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.16318017010728,
+                    "lng": 27.91771982989272
+                },
+                "southwest": {
+                    "lat": -26.16587982989272,
+                    "lng": 27.91502017010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "59ad98129c4a15dc1e83afa23f6a99178afec423",
+        "name": "Greenwich College",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 806,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100498749974546132012/photos\">Greenwich College</a>"
+                ],
+                "photo_reference": "CmRaAAAAJNHKH4Fp6nK8lVnr6zBwZflxQu_cUlirFI_iieCcKOOq9fy4A9IwAz0b6w4B6lxrlSizebWe27sxEU274iT3rUIBAjeAVfgob8LfmYIkxGTWUEgSp9XkQSt5JtmwE5CIEhBqb8akRyZ0E52rpHeTjBxpGhRIfrISvj3HW5ai4Od_Wt3zGxuK3w",
+                "width": 807
+            }
+        ],
+        "place_id": "ChIJH-Ay7ItzlR4R_aevsv4fpqI",
+        "plus_code": {
+            "compound_code": "RWP8+5G Roodepoort, South Africa",
+            "global_code": "5G59RWP8+5G"
+        },
+        "rating": 5,
+        "reference": "ChIJH-Ay7ItzlR4R_aevsv4fpqI",
+        "types": [
+            "university",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "UKWAZI SCHOOL OF NURSING": {
+        "formatted_address": "145 Ontdekkers Rd, Horison Park, Roodepoort, 1724, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.139497,
+                "lng": 27.8676667
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.13822767010728,
+                    "lng": 27.86897657989272
+                },
+                "southwest": {
+                    "lat": -26.14092732989272,
+                    "lng": 27.86627692010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "7ba140eb305402a12f2dff27449770c5f3d19bd4",
+        "name": "UKWAZI SCHOOL OF NURSING",
+        "place_id": "ChIJ1fKduXqflR4RWJlbzq4Ed-0",
+        "plus_code": {
+            "compound_code": "VV69+63 Roodepoort, South Africa",
+            "global_code": "5G59VV69+63"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ1fKduXqflR4RWJlbzq4Ed-0",
+        "types": [
+            "university",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "South West Gaugteng College Of Engineer": {
+        "formatted_address": "42 Stokoe St, Roodepoort West, Roodepoort, 1724, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1534144,
+                "lng": 27.8595049
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.15206657010728,
+                    "lng": 27.86088722989272
+                },
+                "southwest": {
+                    "lat": -26.15476622989272,
+                    "lng": 27.85818757010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ccd66104f63baf7cdb7635a5f9d68f972dde8493",
+        "name": "South West Gaugteng College Of Engineer",
+        "place_id": "ChIJZ5zz2N6hlR4RRX9RM4XE93k",
+        "plus_code": {
+            "compound_code": "RVW5+JR Roodepoort, South Africa",
+            "global_code": "5G59RVW5+JR"
+        },
+        "rating": 3,
+        "reference": "ChIJZ5zz2N6hlR4RRX9RM4XE93k",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Modise Computer College": {
+        "formatted_address": "No. 43, 2nd Floor, Corner Of Hoofd & Kroon Street, Roodepoort 237-Iq, Roodepoort, 1724, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.166101,
+                "lng": 27.86832
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.16475117010728,
+                    "lng": 27.86966982989272
+                },
+                "southwest": {
+                    "lat": -26.16745082989272,
+                    "lng": 27.86697017010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "eac122c68b17c73af6ee4f16ebe4754709e7170c",
+        "name": "Modise Computer College",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJHXmdw8ihlR4RVju-CnoQ4ks",
+        "plus_code": {
+            "compound_code": "RVM9+H8 Roodepoort, South Africa",
+            "global_code": "5G59RVM9+H8"
+        },
+        "rating": 0,
+        "reference": "ChIJHXmdw8ihlR4RVju-CnoQ4ks",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Western College TVET": {
+        "formatted_address": "2 Kiewiet St, Helikon Park, Randfontein, 1760, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.18854,
+                "lng": 27.67719
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.18712477010728,
+                    "lng": 27.67866947989272
+                },
+                "southwest": {
+                    "lat": -26.18982442989272,
+                    "lng": 27.67596982010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4ca93bfa90014fd518d9d1717e975a650a2acf73",
+        "name": "Western College TVET",
+        "place_id": "ChIJPd4Ku3e-lR4R1IObDS3hk0c",
+        "plus_code": {
+            "compound_code": "RM6G+HV Randfontein, South Africa",
+            "global_code": "5G59RM6G+HV"
+        },
+        "rating": 3.7,
+        "reference": "ChIJPd4Ku3e-lR4R1IObDS3hk0c",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "I C E Computer College": {
+        "formatted_address": "1st Floor, Morson House, 3 Edward St, Roodepoort, 1724, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.15997,
+                "lng": 27.86768
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.15861697010728,
+                    "lng": 27.86897117989272
+                },
+                "southwest": {
+                    "lat": -26.16131662989272,
+                    "lng": 27.86627152010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "705dbf823073767b34152f8d780d9b77e098542d",
+        "name": "I C E Computer College",
+        "place_id": "ChIJT8rs4M-hlR4Rx-tZU9Cr-c0",
+        "plus_code": {
+            "compound_code": "RVR9+23 Roodepoort, South Africa",
+            "global_code": "5G59RVR9+23"
+        },
+        "rating": 0,
+        "reference": "ChIJT8rs4M-hlR4Rx-tZU9Cr-c0",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "The Plumbing Academy": {
+        "formatted_address": "00617 Ndlovu St, Dlamini, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2711408,
+                "lng": 27.8767347
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26979097010727,
+                    "lng": 27.87808452989272
+                },
+                "southwest": {
+                    "lat": -26.27249062989272,
+                    "lng": 27.87538487010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3daa4396d5f2d6c9dbf20716426d502b07c2ccf4",
+        "name": "The Plumbing Academy",
+        "photos": [
+            {
+                "height": 584,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100998334125869783001/photos\">SIRAAJ KHAN</a>"
+                ],
+                "photo_reference": "CmRaAAAAoOwIZk9EIAihQakxRWgYNIhA7929-sLHqHLs2FBUd5RK8XO8tcMFN92ArH9y-3avtDw6g_1FDjb4vKfNnvVKYDwATrnOjcXte4hGalzeBUt_lmVWjOlnpdmjcVoCb63kEhDd1EAkiceX9-hHHZnqcaK4GhQtGB9Qo-iGHCvuCoUWuw--8TTy-w",
+                "width": 1040
+            }
+        ],
+        "place_id": "ChIJ3Qez5_2mlR4Rdq-sy0W7K8c",
+        "plus_code": {
+            "compound_code": "PVHG+GM Soweto, South Africa",
+            "global_code": "5G59PVHG+GM"
+        },
+        "rating": 1,
+        "reference": "ChIJ3Qez5_2mlR4Rdq-sy0W7K8c",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Jabulani Technical School": {
+        "formatted_address": "Koma St, Jabulani, Johannesburg, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.245112,
+                "lng": 27.856508
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24354377010728,
+                    "lng": 27.85731902989273
+                },
+                "southwest": {
+                    "lat": -26.24624342989273,
+                    "lng": 27.85461937010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "208ba9d9276af1e700d3958bb07824dc43550044",
+        "name": "Jabulani Technical School",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115561534674401257504/photos\">Themba Ngwenya</a>"
+                ],
+                "photo_reference": "CmRaAAAAUFz0UCE4cI53i182MUjux7NHqJjJCG2GE0gRE93XGTFA-2LBV6COdO0XB1S4VUp1_kzcV2HBchjRawBwvBJEQ4U7DUIeMqQyviY02sMV6sGzO2e90M-6dCSOPMSJvNhOEhC4dbX1vtM2uqwlS7My5mLoGhS9uJuXy15sfC6XxwPB9j5r-N_xpw",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJIVAsvMmmlR4RMRESbVCIhco",
+        "plus_code": {
+            "compound_code": "QV34+XJ Soweto, South Africa",
+            "global_code": "5G59QV34+XJ"
+        },
+        "rating": 4,
+        "reference": "ChIJIVAsvMmmlR4RMRESbVCIhco",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "INSTITUTE FOR QUALITY": {
+        "formatted_address": "43 Goldman St, Florida, Roodepoort, 2000, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1722639,
+                "lng": 27.913371
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.17115237010728,
+                    "lng": 27.91462342989271
+                },
+                "southwest": {
+                    "lat": -26.17385202989272,
+                    "lng": 27.91192377010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "413e2e85b981d41945d864e0fdc0d78da2b16e72",
+        "name": "INSTITUTE FOR QUALITY",
+        "place_id": "ChIJQ_RhrHqglR4RsaiDmlogprQ",
+        "plus_code": {
+            "compound_code": "RWH7+38 Roodepoort, South Africa",
+            "global_code": "5G59RWH7+38"
+        },
+        "rating": 4,
+        "reference": "ChIJQ_RhrHqglR4RsaiDmlogprQ",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Saint Barnabas College": {
+        "formatted_address": "Bosmont, Randburg, 2093, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.18984,
+                "lng": 27.95108
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.18849017010728,
+                    "lng": 27.95242982989271
+                },
+                "southwest": {
+                    "lat": -26.19118982989272,
+                    "lng": 27.94973017010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b9e6945c28d8dd066be7d891834fd7c6cc0222d5",
+        "name": "Saint Barnabas College",
+        "place_id": "ChIJMa0ANUIKlR4RcEmj31LPGgw",
+        "plus_code": {
+            "compound_code": "RX62+3C Randburg, South Africa",
+            "global_code": "5G59RX62+3C"
+        },
+        "rating": 5,
+        "reference": "ChIJMa0ANUIKlR4RcEmj31LPGgw",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "CTU Training Solutions Roodepoort": {
+        "formatted_address": "59, The Village @ Horizon, Sonop St, Horizon, Roodepoort, 1730, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1429775,
+                "lng": 27.8700032
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.14162167010728,
+                    "lng": 27.87145447989272
+                },
+                "southwest": {
+                    "lat": -26.14432132989272,
+                    "lng": 27.86875482010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4363a85fece4d3c59dfb783b771a9a54ca78b422",
+        "name": "CTU Training Solutions Roodepoort",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3120,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115172527180760873129/photos\">Tom Malinowski</a>"
+                ],
+                "photo_reference": "CmRaAAAAl6A-9ELLB9oApttle_TeH_4Z1yDx7YXXJJENruHnLVI8jbgixzQ1-qiFlLVv5H9Y9gPS23_4BJm2CSDCJZNfyBxvdr3BEHRacsKeo08FoqdS_1YmCgEzvT_fR8HGXcwlEhCNSIA-q_xRy1UtSw6f6QdvGhQvurmcG8N5fGxyiElIiMpX-C-LGg",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJJ8CHd3uflR4R7WJr1ZwKRdE",
+        "plus_code": {
+            "compound_code": "VV4C+R2 Roodepoort, South Africa",
+            "global_code": "5G59VV4C+R2"
+        },
+        "rating": 4.7,
+        "reference": "ChIJJ8CHd3uflR4R7WJr1ZwKRdE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Oasis Manor": {
+        "formatted_address": "25 Malachite St, Kloofendal, Roodepoort, 1709, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1916317,
+                "lng": 27.6995557
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.19028187010728,
+                    "lng": 27.70090552989272
+                },
+                "southwest": {
+                    "lat": -26.19298152989272,
+                    "lng": 27.69820587010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c91c36ac5f615ef4be7627706f92a7b46fb68371",
+        "name": "Oasis Manor",
+        "place_id": "ChIJR02bBnu9lR4RnRMcmaBJwVw",
+        "plus_code": {
+            "compound_code": "RM5X+8R Randfontein, South Africa",
+            "global_code": "5G59RM5X+8R"
+        },
+        "rating": 5,
+        "reference": "ChIJR02bBnu9lR4RnRMcmaBJwVw",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "LechekoPowerYourMind": {
+        "formatted_address": "Moliwa street, Soweto, Johannesburg, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.251995,
+                "lng": 27.849839
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25064517010728,
+                    "lng": 27.85118882989272
+                },
+                "southwest": {
+                    "lat": -26.25334482989273,
+                    "lng": 27.84848917010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f82cda8b56085c31404f955d1286caf0b7b93929",
+        "name": "LechekoPowerYourMind",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114152719343957482364/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAcuPRh8JbZ4vLsb_2pt4aJStnNfZkcAYyrTO44m9o427vaLyThPwwh_Rj_BWh7qphcin1DHEbYx_CRcXrN67Gt85rgUXXKjZBs9am4dfWLGwfS9lpLb4XmZ-deE-leAi8EhCxyafYDV-fvUXjCCcUbJhsGhQdRNvws3HnPYg_fi8Q6CjdfOfWRg",
+                "width": 5184
+            }
+        ],
+        "place_id": "ChIJRYWzlrmmlR4RVL6RU-8DR4E",
+        "rating": 0,
+        "reference": "ChIJRYWzlrmmlR4RVL6RU-8DR4E",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "LSI College": {
+        "formatted_address": "Shop 6, Constantia Park, 14th Ave, Constantia, Johannesburg, 1709, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.150864,
+                "lng": 27.926158
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.14951417010727,
+                    "lng": 27.92750782989272
+                },
+                "southwest": {
+                    "lat": -26.15221382989272,
+                    "lng": 27.92480817010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "83e74e4df774a07d1671afda49ce0f199c9d1b4e",
+        "name": "LSI College",
+        "place_id": "ChIJg015cqcKlR4RmAk2vgHg5ME",
+        "plus_code": {
+            "compound_code": "RWXG+MF Roodepoort, South Africa",
+            "global_code": "5G59RWXG+MF"
+        },
+        "rating": 4.5,
+        "reference": "ChIJg015cqcKlR4RmAk2vgHg5ME",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Boston City Campus & Business College": {
+        "formatted_address": "130 Main St, Marshalltown, Johannesburg, 0083, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.20666,
+                "lng": 28.04652
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.20512257010728,
+                    "lng": 28.04784152989272
+                },
+                "southwest": {
+                    "lat": -26.20782222989272,
+                    "lng": 28.04514187010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a73e4519467ac26c9845cb4b1a3190a62d7d6273",
+        "name": "Boston City Campus & Business College",
+        "place_id": "ChIJ1V5IDKIOlR4RPtGtqSGlJEs",
+        "plus_code": {
+            "compound_code": "Q2VW+8J Johannesburg, South Africa",
+            "global_code": "5G5CQ2VW+8J"
+        },
+        "rating": 3,
+        "reference": "ChIJ1V5IDKIOlR4RPtGtqSGlJEs",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Neksatec": {
+        "formatted_address": "6 Hinsbeeck Ave, Florida Park, Roodepoort, 1709, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.15733,
+                "lng": 27.90877
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.15609977010728,
+                    "lng": 27.91024517989273
+                },
+                "southwest": {
+                    "lat": -26.15879942989272,
+                    "lng": 27.90754552010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cc6807108383ad3f175d0cc729d78c9acfa9f69e",
+        "name": "Neksatec",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101943490417812191063/photos\">Neksatec</a>"
+                ],
+                "photo_reference": "CmRaAAAAhP_NEmIjoc3pBQ606-Pk3BdRKojJAlYElvzb-MbY3RZ6ZiFoHCXz9HN-qRZsbLJYovEPDX3jnHO5HljPbd_b9a384mWyzhsi5uLhqZZg8RjrDniZvqszBUb_2k0bCPyYEhB8H_LwzeaH8ah4PD20_X9zGhTlndOieOTIYxA9MTN7g8Lv7JQEgw",
+                "width": 1368
+            }
+        ],
+        "place_id": "ChIJdwmhfmiflR4RKm1v23WoA1A",
+        "plus_code": {
+            "compound_code": "RWV5+3G Roodepoort, South Africa",
+            "global_code": "5G59RWV5+3G"
+        },
+        "rating": 5,
+        "reference": "ChIJdwmhfmiflR4RKm1v23WoA1A",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Central Johannesburg College Langlaagte": {
+        "formatted_address": "5 De Vos St, Paarlshoop, Johannesburg, 2092, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2070538,
+                "lng": 27.9882956
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.20570262010728,
+                    "lng": 27.98961427989272
+                },
+                "southwest": {
+                    "lat": -26.20840227989272,
+                    "lng": 27.98691462010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "e3f02869c4f90efc537acac9d119a24652a6d729",
+        "name": "Central Johannesburg College Langlaagte",
+        "place_id": "ChIJ2RiOJNkLlR4RXmyIlCa9Zdo",
+        "plus_code": {
+            "compound_code": "QXVQ+58 Johannesburg, South Africa",
+            "global_code": "5G59QXVQ+58"
+        },
+        "rating": 0,
+        "reference": "ChIJ2RiOJNkLlR4RXmyIlCa9Zdo",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Ann Latsky Nursing College": {
+        "formatted_address": "37 Plunkett Ave, Hurst Hill, Johannesburg, 2006, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1869058,
+                "lng": 27.9899004
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.18574752010728,
+                    "lng": 27.99130177989272
+                },
+                "southwest": {
+                    "lat": -26.18844717989272,
+                    "lng": 27.98860212010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3546ed6c7f952efe79b1f69e2d311b2f75073aa7",
+        "name": "Ann Latsky Nursing College",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJncxgirgLlR4RuQvTYOUNgmQ",
+        "plus_code": {
+            "compound_code": "RX7Q+6X Johannesburg, South Africa",
+            "global_code": "5G59RX7Q+6X"
+        },
+        "rating": 3.6,
+        "reference": "ChIJncxgirgLlR4RuQvTYOUNgmQ",
+        "types": [
+            "university",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Ukwazi Skills Campus Pty Ltd": {
+        "formatted_address": "145 Ontdekkers Rd, Horison Park, Roodepoort, 1724, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.13946,
+                "lng": 27.8676727
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.13820712010728,
+                    "lng": 27.86897442989272
+                },
+                "southwest": {
+                    "lat": -26.14090677989272,
+                    "lng": 27.86627477010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cd7de300e013039484e71ebb253d8f1f6d2a4f44",
+        "name": "Ukwazi Skills Campus Pty Ltd",
+        "place_id": "ChIJ_9BMzQ8naAER2Sw7MdToMn0",
+        "plus_code": {
+            "compound_code": "VV69+63 Roodepoort, South Africa",
+            "global_code": "5G59VV69+63"
+        },
+        "rating": 4,
+        "reference": "ChIJ_9BMzQ8naAER2Sw7MdToMn0",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "INTEC COLLEGE": {
+        "formatted_address": "2nd Floor, Success House, 2 De Korte St, Johannesburg, 2001, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.195434,
+                "lng": 28.036357
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.19408417010728,
+                    "lng": 28.03770682989272
+                },
+                "southwest": {
+                    "lat": -26.19678382989273,
+                    "lng": 28.03500717010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3ffa0d2741a1562b0b46b6401eaeaa345753a998",
+        "name": "INTEC COLLEGE",
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101331224510006230224/photos\">Levi Saville</a>"
+                ],
+                "photo_reference": "CmRaAAAAp4QKhNpe3ceuvShEfHZeg8fK4XHyCi5KbL8mu3SYBLQ_bOyzxyR88UBEO1R8O3MxwpGU8Hil8LqRWHiZsiL_Ep6vIuMn4Gr0pChap6QS2tInSLbIvHpKLSlVLUC_LgUpEhDV4U2EQ-6kcMlm2zFpMJGrGhSsjStgq1C_k39RjL4yNGZpGvOWhQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJxxPm6BsMlR4R2Zvn3CQufAU",
+        "plus_code": {
+            "compound_code": "R23P+RG Johannesburg, South Africa",
+            "global_code": "5G5CR23P+RG"
+        },
+        "rating": 1.4,
+        "reference": "ChIJxxPm6BsMlR4R2Zvn3CQufAU",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "CAREER COMPUTER TRAINING & CALL CENTER TRAINING COLLEGE": {
+        "formatted_address": "1st Floor, Suite 108, NEW TOWN MALL, 77a corner Harrison Street & Bree Street, Johannesburg, 2001, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.202,
+                "lng": 28.039957
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.20065017010728,
+                    "lng": 28.04130682989272
+                },
+                "southwest": {
+                    "lat": -26.20334982989272,
+                    "lng": 28.03860717010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "edf14549afc6dbf3314a17a50b34394a9c211e7e",
+        "name": "CAREER COMPUTER TRAINING & CALL CENTER TRAINING COLLEGE",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 466,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114621791878712250974/photos\">CAREER COMPUTER TRAINING &amp; CALL CENTER TRAINING COLLEGE</a>"
+                ],
+                "photo_reference": "CmRaAAAA_UaXSrSyuuZ218isE25T8z2WLYDLZJCOAvDKqZlkcg5_XHKs1iRWFn_NOhQDdxLEv_1-usrLez56DrnqSaqRWQddOHXkaLbK3WMD_AStJPkJIvmxi4kz13EdJNxsIrkxEhAhkFdha2RPcU9L5c2-ktphGhQOmKZhj3Snuq0jBdRuINhqztrQAw",
+                "width": 405
+            }
+        ],
+        "place_id": "ChIJHzPhsJ4OlR4R3kjORZSXQfE",
+        "plus_code": {
+            "compound_code": "Q2XQ+6X Johannesburg, South Africa",
+            "global_code": "5G5CQ2XQ+6X"
+        },
+        "rating": 4.2,
+        "reference": "ChIJHzPhsJ4OlR4R3kjORZSXQfE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Edutel": {
+        "formatted_address": "Ontdekkers Rd & Crane Ave, Horizon View, Roodepoort, 1734, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.1403891,
+                "lng": 27.8703384
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.13903927010728,
+                    "lng": 27.87168822989272
+                },
+                "southwest": {
+                    "lat": -26.14173892989272,
+                    "lng": 27.86898857010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "97a3a4fa271cc3af1b70ccfa6369dd9ce4689fbb",
+        "name": "Edutel",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 768,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102625419568724681249/photos\">Edutel</a>"
+                ],
+                "photo_reference": "CmRaAAAAgtt2o4Th92MoYaEUgA-GfbUlzrCoVVHhYi6ajRNNW3X3CBoYGYebS3KIP9D5He6G5ElqXeqVaiL7Y6bTHFsmawPsxSzEre-nFh4OK99wLsbpBTaWDXRfoHIrIfZ2fSpUEhBMOXMZlwOvOI2lSkNWkPkkGhQqpy866ut1JorrHUHwro2YD1FSvw",
+                "width": 1024
+            }
+        ],
+        "place_id": "ChIJTd-82CqglR4R91BxP8__D_4",
+        "plus_code": {
+            "compound_code": "VV5C+R4 Roodepoort, South Africa",
+            "global_code": "5G59VV5C+R4"
+        },
+        "rating": 0,
+        "reference": "ChIJTd-82CqglR4R91BxP8__D_4",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Calvary Christian College": {
+        "formatted_address": "Olifantsvlei 327-Iq, Johannesburg South, 2091, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2857038,
+                "lng": 27.9920359
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.28435397010728,
+                    "lng": 27.99338572989272
+                },
+                "southwest": {
+                    "lat": -26.28705362989272,
+                    "lng": 27.99068607010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "911f0e6701f9508d2b44bd232d07c50443d427f2",
+        "name": "Calvary Christian College",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1936,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101292600619140266172/photos\">Melody Perumal</a>"
+                ],
+                "photo_reference": "CmRaAAAASFLc2wsw5IYrRJUF7HncM80TUC0cSBjZein_qVSKXWb2SppuznggYbbPEG8HUaE-eTs9r2T_fo1tg36QECMzkMcYu-TtsLzdatbvuzReJBTYxku9d1vmhdUM0CqxVHeSEhC3unEJXVV5ag4_cjMmaUKWGhSIoz3Rg3VmAvgivZQ2nTaPxaswpA",
+                "width": 2592
+            }
+        ],
+        "place_id": "ChIJgYuH05kIlR4RHdOVPPBXTtY",
+        "plus_code": {
+            "compound_code": "PX7R+PR Johannesburg South, South Africa",
+            "global_code": "5G59PX7R+PR"
+        },
+        "rating": 0,
+        "reference": "ChIJgYuH05kIlR4RHdOVPPBXTtY",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "IET Fire Rescue and EMS Academy": {
+        "formatted_address": "Durban Deep, Roodepoort 237-Iq, Roodepoort, 1724, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.16575,
+                "lng": 27.8626152
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.16441412010728,
+                    "lng": 27.86399647989272
+                },
+                "southwest": {
+                    "lat": -26.16711377989272,
+                    "lng": 27.86129682010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "574f1b51075dc74dc66405522c254f3099a37924",
+        "name": "IET Fire Rescue and EMS Academy",
+        "place_id": "ChIJP7SFJcShlR4Rl-K3Ze3O5iA",
+        "plus_code": {
+            "compound_code": "RVM7+M2 Roodepoort, South Africa",
+            "global_code": "5G59RVM7+M2"
+        },
+        "rating": 1.5,
+        "reference": "ChIJP7SFJcShlR4Rl-K3Ze3O5iA",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Sparrow FET College": {
+        "formatted_address": "Cnr and, Gerty St &, Hermans St, Sophiatown, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.172191,
+                "lng": 27.9848115
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.17090647010728,
+                    "lng": 27.98597612989272
+                },
+                "southwest": {
+                    "lat": -26.17360612989272,
+                    "lng": 27.98327647010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4d39127b5f4d3e203db4e738107bd7c8c8a9abbb",
+        "name": "Sparrow FET College",
+        "place_id": "ChIJpeESE6YLlR4Rt9zYXBb6_Ec",
+        "plus_code": {
+            "compound_code": "RXHM+4W Randburg, South Africa",
+            "global_code": "5G59RXHM+4W"
+        },
+        "rating": 5,
+        "reference": "ChIJpeESE6YLlR4Rt9zYXBb6_Ec",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Peter Lengene Community Learning Centre": {
+        "formatted_address": "Housed at Thaba Jabula secondary school, 1097 Chris Hani Rd, Soweto, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2582484,
+                "lng": 27.9161679
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25729587010728,
+                    "lng": 27.91749652989272
+                },
+                "southwest": {
+                    "lat": -26.25999552989272,
+                    "lng": 27.91479687010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0b01cdffe075958f57396faca1629522dfae95d6",
+        "name": "Peter Lengene Community Learning Centre",
+        "place_id": "ChIJiaCyG3CnlR4Rjttio_YDCNE",
+        "plus_code": {
+            "compound_code": "PWR8+PF Soweto, South Africa",
+            "global_code": "5G59PWR8+PF"
+        },
+        "rating": 0,
+        "reference": "ChIJiaCyG3CnlR4Rjttio_YDCNE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Motekematics Institute for Mathematics": {
+        "formatted_address": "16674 Drakensberg St, Kagiso Ext. 12, Mogale City, 1754, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.17548,
+                "lng": 27.79314
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.17420312010728,
+                    "lng": 27.79446647989272
+                },
+                "southwest": {
+                    "lat": -26.17690277989272,
+                    "lng": 27.79176682010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6551bc8fe14f8f1764b2da65ba94924778ffb39a",
+        "name": "Motekematics Institute for Mathematics",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 958,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100427060253061975431/photos\">Motekematics Institute for Mathematics</a>"
+                ],
+                "photo_reference": "CmRaAAAAEURuHBZpmXwVEKszq14VMO1NUkhlXXNwG3NNwPVg1HiYULEcV-NyyH5-7Ek0psAKnjIlqyv7d4Lrt3pUugRHLi5tpOuCCni73Y0Pv4OkWQjnjSJyzlATiQsFvJYUiJ8wEhDo9r-RmPQWsk2V5U4XDm5oGhQtgUaXFK4a5h3Kmd7G7P-UAerofQ",
+                "width": 958
+            }
+        ],
+        "place_id": "ChIJORD1KmWilR4RhxZdOvzspDg",
+        "plus_code": {
+            "compound_code": "RQFV+R7 Krugersdorp, South Africa",
+            "global_code": "5G59RQFV+R7"
+        },
+        "rating": 0,
+        "reference": "ChIJORD1KmWilR4RhxZdOvzspDg",
+        "types": [
+            "university",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Pq vundla": {
+        "formatted_address": "1822, Molapo St, Soweto, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.263621,
+                "lng": 27.8622817
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26227117010728,
+                    "lng": 27.86363152989272
+                },
+                "southwest": {
+                    "lat": -26.26497082989273,
+                    "lng": 27.86093187010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3a7674bdc662aa0764a09d60e82b8400dfb33089",
+        "name": "Pq vundla",
+        "place_id": "ChIJJeP1M-mmlR4RBz9e6YBdqRE",
+        "plus_code": {
+            "compound_code": "PVP6+HW Soweto, South Africa",
+            "global_code": "5G59PVP6+HW"
+        },
+        "rating": 4,
+        "reference": "ChIJJeP1M-mmlR4RBz9e6YBdqRE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Southwest Media College": {
+        "formatted_address": "38 Melle St, Johannesburg, 2001, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.192122,
+                "lng": 28.035905
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.19078047010728,
+                    "lng": 28.03716727989272
+                },
+                "southwest": {
+                    "lat": -26.19348012989272,
+                    "lng": 28.03446762010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b8d85dccf34dcec05624fc32b1f76f7e5008db82",
+        "name": "Southwest Media College",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3840,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102151898076567212183/photos\">Southwest Media College</a>"
+                ],
+                "photo_reference": "CmRaAAAAtReAU9i9mYWjuTmmciyrKi8MFEZuzo9g-j4J0iGC3RC0hdeIghOVLtXDxfS2Skgd89URMLyRSmSdJFRpwx_nt_CppOFqN3QxoJdOuQAEcCxEY-vwTCcnsj5mCPOS389IEhBSzpnogYxUHsUImM2ftmyrGhTJtFtLvaNkBIF6jnAFR_1Z2teDZw",
+                "width": 5760
+            }
+        ],
+        "place_id": "ChIJ20k2KxoMlR4RkIHI1S9A22E",
+        "plus_code": {
+            "compound_code": "R25P+59 Johannesburg, South Africa",
+            "global_code": "5G5CR25P+59"
+        },
+        "rating": 3.3,
+        "reference": "ChIJ20k2KxoMlR4RkIHI1S9A22E",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Netcare Training Academy (N.T.A)": {
+        "formatted_address": "2 Bunting Rd, Auckland Park, Johannesburg, 2092, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.18845,
+                "lng": 28.01271
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.18668242010728,
+                    "lng": 28.01429607989272
+                },
+                "southwest": {
+                    "lat": -26.18938207989272,
+                    "lng": 28.01159642010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c298334920c989431e5ef67f1f5f7cb66887638f",
+        "name": "Netcare Training Academy (N.T.A)",
+        "place_id": "ChIJz1KF-PMLlR4RGEkicoBSL74",
+        "plus_code": {
+            "compound_code": "R267+J3 Johannesburg, South Africa",
+            "global_code": "5G5CR267+J3"
+        },
+        "rating": 3.8,
+        "reference": "ChIJz1KF-PMLlR4RGEkicoBSL74",
+        "types": [
+            "university",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Sizwile School For Deaf Children": {
+        "formatted_address": "Jonas Moari St, Dobsonville, Johannesburg, 1863, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2154609,
+                "lng": 27.861097
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.21435782010728,
+                    "lng": 27.86247692989272
+                },
+                "southwest": {
+                    "lat": -26.21705747989272,
+                    "lng": 27.85977727010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "c7dfe6f456c04153d4db7309eb76e8aaf5e0cdcb",
+        "name": "Sizwile School For Deaf Children",
+        "place_id": "ChIJV8emBBahlR4R1MCSX2_uJrk",
+        "plus_code": {
+            "compound_code": "QVM6+RC Soweto, South Africa",
+            "global_code": "5G59QVM6+RC"
+        },
+        "rating": 4.7,
+        "reference": "ChIJV8emBBahlR4R1MCSX2_uJrk",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Penguin Aquatic Swim School": {
+        "formatted_address": "Pimville Zone 6, Soweto, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.273884,
+                "lng": 27.899241
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27253417010728,
+                    "lng": 27.90059082989272
+                },
+                "southwest": {
+                    "lat": -26.27523382989272,
+                    "lng": 27.89789117010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "24daae2d318a5e56c34a3686edf1008d804a7b72",
+        "name": "Penguin Aquatic Swim School",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJAQAAAGmplR4R4usDzQFOqr0",
+        "plus_code": {
+            "compound_code": "PVGX+CM Pimville, South Africa",
+            "global_code": "5G59PVGX+CM"
+        },
+        "rating": 0,
+        "reference": "ChIJAQAAAGmplR4R4usDzQFOqr0",
+        "types": [
+            "health",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Funda UJabule Primary School": {
+        "formatted_address": "10942 Modjaji St, Pimville Zone 1, Pimville, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.262558,
+                "lng": 27.91509
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26120762010727,
+                    "lng": 27.91637927989272
+                },
+                "southwest": {
+                    "lat": -26.26390727989272,
+                    "lng": 27.91367962010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "41e04ef97d29b7ce5abeb4099719231cb94eb2b1",
+        "name": "Funda UJabule Primary School",
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116554861849590971285/photos\">zorodzai munhumutema</a>"
+                ],
+                "photo_reference": "CmRaAAAAwQSa-cjqmUAuSdJrmUAEeEzc7L3dw5jPk5BZ8Hf1_VOcp6g4rAtf4bgQt4ykZloYxMIGc5fNS3cuMT5Xav4G5I_xSFBBwIj411oRNkaSW61QayUyGmSbXPhnfK6V9ZPSEhCvMdt6pPnIlaqdDXOuy1j_GhSEnpfn8Aog7KX_miLxtXmBkkAbcQ",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJMxpBOXqnlR4Rln564mplUxg",
+        "plus_code": {
+            "compound_code": "PWP8+X2 Pimville, South Africa",
+            "global_code": "5G59PWP8+X2"
+        },
+        "rating": 4.7,
+        "reference": "ChIJMxpBOXqnlR4Rln564mplUxg",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Little Angels Pre School": {
+        "formatted_address": "9634 Tshipo St, Protea Glen, Soweto, 1819, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2792495,
+                "lng": 27.8062282
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.27789157010728,
+                    "lng": 27.80756437989272
+                },
+                "southwest": {
+                    "lat": -26.28059122989272,
+                    "lng": 27.80486472010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a39364c1dd5321e1d5fae79774107dde82adb246",
+        "name": "Little Angels Pre School",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJdSOIvUeklR4RlH8-AknXLfk",
+        "plus_code": {
+            "compound_code": "PRC4+8F Soweto, South Africa",
+            "global_code": "5G59PRC4+8F"
+        },
+        "rating": 3,
+        "reference": "ChIJdSOIvUeklR4RlH8-AknXLfk",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "Zerowa Christian Academy": {
+        "formatted_address": "43 Dartmoor Ave, Eldorado Park, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2871157,
+                "lng": 27.8960542
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.28592352010728,
+                    "lng": 27.89739202989272
+                },
+                "southwest": {
+                    "lat": -26.28862317989272,
+                    "lng": 27.89469237010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1faa6d1cec561b8fa20b9d7d7b2be0e6eb52ac65",
+        "name": "Zerowa Christian Academy",
+        "place_id": "ChIJ7_vKe7ynlR4Rkw6d9OdPwOM",
+        "plus_code": {
+            "compound_code": "PV7W+5C Soweto, South Africa",
+            "global_code": "5G59PV7W+5C"
+        },
+        "rating": 5,
+        "reference": "ChIJ7_vKe7ynlR4Rkw6d9OdPwOM",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "BTC-Soweto": {
+        "formatted_address": "752 Elias Motsoaledi Rd, Mofolo South, Soweto, 1801, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2591331,
+                "lng": 27.8855981
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.25778782010728,
+                    "lng": 27.88698267989272
+                },
+                "southwest": {
+                    "lat": -26.26048747989272,
+                    "lng": 27.88428302010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ee829085fc355b30f9160d0d0d1258231f305029",
+        "name": "BTC-Soweto",
+        "place_id": "ChIJsWwa3xunlR4RKQF0rHESP8o",
+        "plus_code": {
+            "compound_code": "PVRP+86 Soweto, South Africa",
+            "global_code": "5G59PVRP+86"
+        },
+        "rating": 0,
+        "reference": "ChIJsWwa3xunlR4RKQF0rHESP8o",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "reabetswe abby plumbing academy": {
+        "formatted_address": "1572 Makapan St, Moroka, Soweto, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.264088,
+                "lng": 27.863404
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26274187010728,
+                    "lng": 27.86476997989272
+                },
+                "southwest": {
+                    "lat": -26.26544152989272,
+                    "lng": 27.86207032010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+        "id": "0da68a1fb9b613439d9bdb12b84d13a75570df34",
+        "name": "reabetswe abby plumbing academy",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2560,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114902715673925924314/photos\">reabetswe abby plumbing academy</a>"
+                ],
+                "photo_reference": "CmRaAAAAa3QzO31zeZznYWeaLGu4_6BKsVfYI8otQLCIT9rct8wpD3oaJDAmZAvrO30VL8HvVmVfjG8wGBft65-d8XSGeSb1FxHveJIIhWU3_-POIukPYLlbobwQ5xei7bBt2bthEhAI1YlY3g_uTLzP5XQ5R1EcGhSmA0MIi5H4jCZ83zXtEtFQ-YyZbg",
+                "width": 1440
+            }
+        ],
+        "place_id": "ChIJGendKe-mlR4Ru3WEXJVSrnM",
+        "plus_code": {
+            "compound_code": "PVP7+99 Soweto, South Africa",
+            "global_code": "5G59PVP7+99"
+        },
+        "rating": 1,
+        "reference": "ChIJGendKe-mlR4Ru3WEXJVSrnM",
+        "types": [
+            "plumber",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "A.B. Xuma Primary School": {
+        "formatted_address": "Scott Street, Orlando East, Johannesburg, 1804, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2346784,
+                "lng": 27.9204306
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.23332857010728,
+                    "lng": 27.92178042989272
+                },
+                "southwest": {
+                    "lat": -26.23602822989272,
+                    "lng": 27.91908077010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "16aaded564cac41c1a3cf030a05e6f6eaa1ccc77",
+        "name": "A.B. Xuma Primary School",
+        "photos": [
+            {
+                "height": 480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101839516450394281384/photos\">Tshwarelo Mofolo</a>"
+                ],
+                "photo_reference": "CmRaAAAAN-67_iAqDwu4JnFaL2VyktcIhA9AD7G65jfVQZImR3Br_52HuLCfxypBb4_BIS6p_GcQ48ibfTPA9ZZQh47AUtenQtJ2VxHLR2HhTBKYSzy_Tgw8bbwMd2H0sH5ZbrL0EhC_3rVwH-IYnpPCbr1sXwzbGhTers3M1CFjA-6Klr0o6MMN6drOsw",
+                "width": 640
+            }
+        ],
+        "place_id": "ChIJld2tXFenlR4Rsbr1xqHUxJg",
+        "plus_code": {
+            "compound_code": "QW8C+45 Soweto, South Africa",
+            "global_code": "5G59QW8C+45"
+        },
+        "rating": 3.7,
+        "reference": "ChIJld2tXFenlR4Rsbr1xqHUxJg",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Emadwaleni Secondary School": {
+        "formatted_address": "10898 Armitage St, Orlando, Soweto, 1803, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2281749,
+                "lng": 27.9174908
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.22674842010728,
+                    "lng": 27.91883667989272
+                },
+                "southwest": {
+                    "lat": -26.22944807989272,
+                    "lng": 27.91613702010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "08d5c667bd970f3400be8968f4eea8c24c3fa489",
+        "name": "Emadwaleni Secondary School",
+        "photos": [
+            {
+                "height": 600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109630486599774019116/photos\">TEBOGO PETJA</a>"
+                ],
+                "photo_reference": "CmRaAAAAwCAcsM8l1Rhs1hp0Vqs_QsCcsLHi1jZ4oR_onwowYjN1WllUMFdTvT3dCSbnjeyYN1dPwqCm7mmk6ZACvm-Tddm_qK5MBTxGTI9PxclY8FOYMa7Zad7qGMDjae3_y7GuEhBJ4KKOondny6B751zFageNGhQtUo24cGr1V2Q2eW9bg9bZgGo_Hg",
+                "width": 800
+            }
+        ],
+        "place_id": "ChIJFVJ2ZLGglR4RX0ZHtLQtz6Y",
+        "plus_code": {
+            "compound_code": "QWC8+PX Soweto, South Africa",
+            "global_code": "5G59QWC8+PX"
+        },
+        "rating": 4.6,
+        "reference": "ChIJFVJ2ZLGglR4RX0ZHtLQtz6Y",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Orlando High School": {
+        "formatted_address": "6502 Mooki St, Orlando East, Johannesburg, 1804, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.230698,
+                "lng": 27.926259
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.22928122010728,
+                    "lng": 27.92749622989272
+                },
+                "southwest": {
+                    "lat": -26.23198087989272,
+                    "lng": 27.92479657010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8dd7d80944813f9ebf6133a6bdfaa4a6c1023f23",
+        "name": "Orlando High School",
+        "photos": [
+            {
+                "height": 972,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110675907188269711092/photos\">Lino Junior Dube</a>"
+                ],
+                "photo_reference": "CmRZAAAAgwwj8oedsw6Y-AcqGI7vdQRnH3cNISenEGi_d9sF75lTpprWFxhggvZJQ5YGcLPIFFvSMUjjB32-kA-JV-JaMkoIy6kUfWzXceJtNdVF5ZTT4Rhlbi9AE63VpjxgBIJhEhDmD0qzor6nIjkLmhDG0epJGhQc09hbEjXbDaokWcBHNwko6zsnvg",
+                "width": 1296
+            }
+        ],
+        "place_id": "ChIJmfFBo_0JlR4RgLBaDWG3px8",
+        "plus_code": {
+            "compound_code": "QW9G+PG Soweto, South Africa",
+            "global_code": "5G59QW9G+PG"
+        },
+        "rating": 4,
+        "reference": "ChIJmfFBo_0JlR4RgLBaDWG3px8",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Diepdale Secondary School": {
+        "formatted_address": "Dippenaar St, Diepkloof Zone 2, Johannesburg, 1864, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2479409,
+                "lng": 27.937536
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24651842010728,
+                    "lng": 27.93864327989272
+                },
+                "southwest": {
+                    "lat": -26.24921807989272,
+                    "lng": 27.93594362010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "30443ceb6349b3df87925fa8638f312724ff9bb3",
+        "name": "Diepdale Secondary School",
+        "place_id": "ChIJEY-1WMMJlR4RKBiHthqX3iE",
+        "plus_code": {
+            "compound_code": "QW2Q+R2 Diepkloof, South Africa",
+            "global_code": "5G59QW2Q+R2"
+        },
+        "rating": 3.6,
+        "reference": "ChIJEY-1WMMJlR4RKBiHthqX3iE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Khotso Primary School": {
+        "formatted_address": "Lelani St, Phiri, Johannesburg, 1818, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2712909,
+                "lng": 27.851454
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26981952010728,
+                    "lng": 27.85265097989273
+                },
+                "southwest": {
+                    "lat": -26.27251917989272,
+                    "lng": 27.84995132010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f35500a00a607388585419e58774ccf758932af6",
+        "name": "Khotso Primary School",
+        "place_id": "ChIJf4uWgJKmlR4RBdkEO6PzCvY",
+        "plus_code": {
+            "compound_code": "PVH2+FH Soweto, South Africa",
+            "global_code": "5G59PVH2+FH"
+        },
+        "rating": 5,
+        "reference": "ChIJf4uWgJKmlR4RBdkEO6PzCvY",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Lethabo Primary School": {
+        "formatted_address": "Kgaribe St, Soweto, Johannesburg, 1868, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.24972,
+                "lng": 27.823244
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.24836457010728,
+                    "lng": 27.82482432989272
+                },
+                "southwest": {
+                    "lat": -26.25106422989272,
+                    "lng": 27.82212467010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0dbf7ce109563d91766a6204f2a8803a021bea73",
+        "name": "Lethabo Primary School",
+        "place_id": "ChIJEavmg_ejlR4RCA-jS2M4KDw",
+        "plus_code": {
+            "compound_code": "QR2F+47 Soweto, South Africa",
+            "global_code": "5G59QR2F+47"
+        },
+        "rating": 3,
+        "reference": "ChIJEavmg_ejlR4RCA-jS2M4KDw",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ]
+    },
+    "Freedom Primary School": {
+        "formatted_address": "261 Jan de Necker Dr, Devland, Soweto, 1811, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2959054,
+                "lng": 27.9294923
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.29454357010728,
+                    "lng": 27.93083272989272
+                },
+                "southwest": {
+                    "lat": -26.29724322989272,
+                    "lng": 27.92813307010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "959ad1e0b1bb48067da4cd2d937dd1c9c4591cd4",
+        "name": "Freedom Primary School",
+        "photos": [
+            {
+                "height": 628,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117339397118745469330/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAFO_ZAlXwOixNYkxZ9oCwTOL8JjA4bMC7bopaWFGljjznlCyC8ax9FySzyOwet4pTSWb8iueJBYrXdSs7BLXHr299hpP79QI7jFG9IfeRWKRaFCiNTfPzO4WiBjDTvD-4EhCYLOJiCr0hVgFFBcZfDL9XGhS1vhx8yiILwIEu4nqapkcyuPYBcw",
+                "width": 628
+            }
+        ],
+        "place_id": "ChIJi2VhihwIlR4RKi_vkLIzDQM",
+        "plus_code": {
+            "compound_code": "PW3H+JQ Soweto, South Africa",
+            "global_code": "5G59PW3H+JQ"
+        },
+        "rating": 4,
+        "reference": "ChIJi2VhihwIlR4RKi_vkLIzDQM",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    "University of Johannesburg: Soweto Campus": {
+        "formatted_address": "Chris Hani, Soweto, Johannesburg, 1809, South Africa",
+        "geometry": {
+            "location": {
+                "lat": -26.2614269,
+                "lng": 27.922561
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.26018232010728,
+                    "lng": 27.92365997989272
+                },
+                "southwest": {
+                    "lat": -26.26288197989273,
+                    "lng": 27.92096032010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4a2e5ea9d9888804801884a60405307763b12217",
+        "name": "University of Johannesburg: Soweto Campus",
+        "photos": [
+            {
+                "height": 1520,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105316399056615410550/photos\">Suleyman Ayar</a>"
+                ],
+                "photo_reference": "CmRaAAAAg1bY7xFqB9v_t7NvIbwjT81dD3r999aTyTqA-EMHQNTAc0t_2Hj9by-UPlRs7JHuD_qxotynLWwZiKwoSxb1h75fVilvpIe4T9iDCfNcVDu5r67cKJf9DBmU2H9qnxSoEhDVKUAU1UUh3MnPNmTy12ZLGhTI9lcyYrEEdrHd2OCNJi8IQDDmmw",
+                "width": 2688
+            }
+        ],
+        "place_id": "ChIJg20v0H2nlR4R2N3HsiYR9D4",
+        "plus_code": {
+            "compound_code": "PWQF+C2 Soweto, South Africa",
+            "global_code": "5G59PWQF+C2"
+        },
+        "rating": 4.4,
+        "reference": "ChIJg20v0H2nlR4R2N3HsiYR9D4",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+}

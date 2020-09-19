@@ -1,4 +1,4 @@
-/* Created by Abdullah Adam on 2020/09/19
+/* Created by 3935415 Abdullah Adam on 2020/09/19
     * TDD (Test Driven Development)
     * Class used to test mergeSort and quickSort
  */
@@ -30,5 +30,6 @@ public class SortTestDriver {
         for (int i = 0; i < n; i++) {
             System.out.print(arr2[i] + " ");
         }
+        CSVParser.csvToArray("Soweto.csv");
     }
 }
