@@ -1,6 +1,10 @@
-import java.util.ArrayList;
-import java.util.List;
-
+/* Created by 3935415 Abdullah Adam on 2020/09/19
+ * www.github.com/anneKsiy
+ * School class which allows School Objects to be created
+ * School(name, lat lng, rating) * All Strings *
+ * Method createSchool(metadata) which accepts a String[] Array created in "CSVParser.java" at line 19
+ * All accessors and mutators (setters and getters) are present, in case they need to be used in future iterations of the code
+ */
 public class School {
     private String name;
     private String lat;
@@ -58,15 +62,4 @@ public class School {
         String rating = metadata[3];
         return new School(name, lat, lng, rating);
     }
-
-//    public static void sortSchools(List<School> schools) {
-//        int i = 1;
-//        int rating;
-//        List<Integer> ratings = new ArrayList<>();
-//        while (i < schools.size()) {
-//            rating = Integer.parseInt(schools.get(i).getRating());
-//            ratings.add(rating);
-//            i++;
-//        }
-//    }
 }
