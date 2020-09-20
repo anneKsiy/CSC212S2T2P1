@@ -13,6 +13,7 @@ public class CSVParser {
         List<School> schools = new ArrayList<>();
         Path pathToFile = Paths.get(fileName);
 
+        // Change the second parameter to a different charset in case of java.nio.charset.MalformedInputException error
         try (BufferedReader br = Files.newBufferedReader(pathToFile, StandardCharsets.UTF_8)) {
             String line = br.readLine(); // read the first line from the CSV file
             while (line != null) {
